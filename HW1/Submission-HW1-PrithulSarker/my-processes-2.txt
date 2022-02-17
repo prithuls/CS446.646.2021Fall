@@ -1,0 +1,67 @@
+prit        1396  0.2  0.0  19316 10460 ?        Ss   00:39   0:00 /lib/systemd/systemd --user
+prit        1397  0.0  0.0 169320  3648 ?        S    00:39   0:00 (sd-pam)
+prit        1404  0.1  0.1 1228964 18940 ?       S<sl 00:39   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+prit        1406  0.0  0.1 593884 24456 ?        SNsl 00:39   0:00 /usr/libexec/tracker-miner-fs
+prit        1414  0.2  0.0   8280  5204 ?        Ss   00:39   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+prit        1420  0.0  0.0 248812  7808 ?        Sl   00:39   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+prit        1435  0.0  0.0 248344  7732 ?        Ssl  00:39   0:00 /usr/libexec/gvfsd
+prit        1441  0.0  0.0 378344  6500 ?        Sl   00:39   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+prit        1447  0.0  0.0 322560  8860 ?        Ssl  00:39   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+prit        1454  0.0  0.0 244332  6020 ?        Ssl  00:39   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+prit        1459  0.0  0.0 244508  6000 ?        Ssl  00:39   0:00 /usr/libexec/gvfs-goa-volume-monitor
+prit        1463  0.0  0.2 553860 36512 ?        Sl   00:39   0:00 /usr/libexec/goa-daemon
+prit        1473  0.0  0.0 323388  9008 ?        Sl   00:39   0:00 /usr/libexec/goa-identity-service
+prit        1479  0.0  0.0 246736  7220 ?        Ssl  00:39   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+prit        1483  0.0  0.0 325356  8848 ?        Ssl  00:39   0:00 /usr/libexec/gvfs-afc-volume-monitor
+prit        1500  0.0  0.0 172652  6372 tty2     Ssl+ 00:39   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+prit        1502  3.9  0.5 1159520 82716 tty2    Sl+  00:39   0:03 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+prit        1520  0.0  0.0 197048 14120 tty2     Sl+  00:39   0:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+prit        1589  0.0  0.0   6040   456 ?        Ss   00:39   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+prit        1610  0.0  0.0 305408  6736 ?        Ssl  00:39   0:00 /usr/libexec/at-spi-bus-launcher
+prit        1615  0.0  0.0   7248  4200 ?        S    00:39   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+prit        1625  0.0  0.0  98696  4396 ?        Ssl  00:39   0:00 /usr/libexec/gnome-session-ctl --monitor
+prit        1632  0.0  0.0 492944 15708 ?        Ssl  00:39   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+prit        1646  4.3  1.5 4524784 245600 ?      Ssl  00:39   0:04 /usr/bin/gnome-shell
+prit        1673  0.0  0.0 319584  8084 ?        Sl   00:39   0:00 ibus-daemon --panel disable --xim
+prit        1677  0.0  0.0 245152  7076 ?        Sl   00:39   0:00 /usr/libexec/ibus-dconf
+prit        1678  0.9  0.1 284384 31344 ?        Sl   00:39   0:00 /usr/libexec/ibus-extension-gtk3
+prit        1680  0.2  0.1 206600 28220 ?        Sl   00:39   0:00 /usr/libexec/ibus-x11 --kill-daemon
+prit        1683  0.0  0.0 245136  6980 ?        Sl   00:39   0:00 /usr/libexec/ibus-portal
+prit        1693  0.0  0.0 162840  7756 ?        Sl   00:39   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+prit        1699  0.0  0.0 244228  4816 ?        Ssl  00:39   0:00 /usr/libexec/xdg-permission-store
+prit        1701  0.0  0.1 580968 19796 ?        Sl   00:39   0:00 /usr/libexec/gnome-shell-calendar-server
+prit        1710  0.0  0.1 398880 25064 ?        Ssl  00:39   0:00 /usr/libexec/evolution-source-registry
+prit        1719  0.0  0.1 847308 30172 ?        Ssl  00:39   0:00 /usr/libexec/evolution-calendar-factory
+prit        1723  0.0  0.0 156200  5536 ?        Sl   00:39   0:00 /usr/libexec/dconf-service
+prit        1734  0.0  0.1 755540 29692 ?        Ssl  00:39   0:00 /usr/libexec/evolution-addressbook-factory
+prit        1749  0.0  0.1 2938912 26704 ?       Sl   00:39   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+prit        1762  0.0  0.0 322464  7752 ?        Sl   00:39   0:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+prit        1771  0.0  0.0 318280  6412 ?        Ssl  00:39   0:00 /usr/libexec/gsd-a11y-settings
+prit        1772  0.2  0.1 513460 30476 ?        Ssl  00:39   0:00 /usr/libexec/gsd-color
+prit        1773  0.0  0.0 382244 16216 ?        Ssl  00:39   0:00 /usr/libexec/gsd-datetime
+prit        1776  0.0  0.0 320348  7180 ?        Ssl  00:39   0:00 /usr/libexec/gsd-housekeeping
+prit        1779  0.2  0.1 354560 28548 ?        Ssl  00:39   0:00 /usr/libexec/gsd-keyboard
+prit        1781  0.2  0.1 697040 31192 ?        Ssl  00:39   0:00 /usr/libexec/gsd-media-keys
+prit        1784  0.2  0.1 428896 29660 ?        Ssl  00:39   0:00 /usr/libexec/gsd-power
+prit        1786  0.0  0.0 256736 11228 ?        Ssl  00:39   0:00 /usr/libexec/gsd-print-notifications
+prit        1789  0.0  0.0 465732  6100 ?        Ssl  00:39   0:00 /usr/libexec/gsd-rfkill
+prit        1790  0.0  0.0 244140  6052 ?        Ssl  00:39   0:00 /usr/libexec/gsd-screensaver-proxy
+prit        1791  0.0  0.0 473544 10976 ?        Ssl  00:39   0:00 /usr/libexec/gsd-sharing
+prit        1792  0.0  0.0 323780  8320 ?        Ssl  00:39   0:00 /usr/libexec/gsd-smartcard
+prit        1794  0.0  0.0 327976  8980 ?        Ssl  00:39   0:00 /usr/libexec/gsd-sound
+prit        1796  0.0  0.0 393580  7236 ?        Ssl  00:39   0:00 /usr/libexec/gsd-usb-protection
+prit        1798  0.2  0.1 354076 28208 ?        Ssl  00:39   0:00 /usr/libexec/gsd-wacom
+prit        1800  0.0  0.0 322604  7964 ?        Ssl  00:39   0:00 /usr/libexec/gsd-wwan
+prit        1801  0.2  0.1 355216 29444 ?        Ssl  00:39   0:00 /usr/libexec/gsd-xsettings
+prit        1818  0.0  0.0 171328  7000 ?        Sl   00:39   0:00 /usr/libexec/ibus-engine-simple
+prit        1839  0.0  0.0 231800  5516 ?        Sl   00:39   0:00 /usr/libexec/gsd-disk-utility-notify
+prit        1846  0.2  0.3 646444 61148 ?        Sl   00:39   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+prit        1908  0.0  0.0 350820 15196 ?        Sl   00:39   0:00 /usr/libexec/gsd-printer
+prit        1947  1.0  0.3 823288 50880 ?        Ssl  00:39   0:00 /usr/libexec/gnome-terminal-server
+prit        1955  0.0  0.0  19248  4832 pts/0    Ss   00:39   0:00 bash
+prit        1980  0.0  0.0 170812  6032 ?        Ssl  00:40   0:00 /usr/libexec/gvfsd-metadata
+prit        1983  0.3  0.1 429084 31544 ?        Sl   00:40   0:00 update-notifier
+prit        2242  0.3  0.1 443288 26932 ?        Ssl  00:40   0:00 /usr/libexec/tracker-store
+prit        2267  0.0  0.0  20324  3468 pts/0    R+   00:41   0:00 ps -aux
+prit        2268  0.0  0.0  16928   864 pts/0    S+   00:41   0:00 more
+prit        2269  0.0  0.0  17672   728 pts/0    D+   00:41   0:00 grep --color=auto prit

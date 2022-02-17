@@ -1,0 +1,40 @@
+		total        used        free      shared  buff/cache   available
+Mem:       16239656      842964    14379836      163332     1016856    14945580
+Swap:       2097148           0     2097148
+
+              total        used        free      shared  buff/cache   available
+Mem:       16239656      787720    14422768      175584     1029168    14988580
+Swap:       2097148           0     2097148
+
+              total        used        free      shared  buff/cache   available
+Mem:       16239656     1461292    13241764      397332     1536600    14089452
+Swap:       2097148           0     2097148
+
+              total        used        free      shared  buff/cache   available
+Mem:       16239656     1615672    13032968      441000     1591016    13890792
+Swap:       2097148           0     2097148
+
+              total        used        free      shared  buff/cache   available
+Mem:       16239656     1785976    12729164      557400     1724516    13602564
+Swap:       2097148           0     2097148
+
+              total        used        free      shared  buff/cache   available
+Mem:       16239656     1913160    12580148      563820     1746348    13468380
+Swap:       2097148           0     2097148
+
+              total        used        free      shared  buff/cache   available
+Mem:       16239656     1969680    12498004      582820     1771972    13392556
+Swap:       2097148           0     2097148
+
+              total        used        free      shared  buff/cache   available
+Mem:       16239656     2012768    12447404      573212     1779484    13353668
+Swap:       2097148           0     2097148
+
+              total        used        free      shared  buff/cache   available
+Mem:       16239656     2013472    12446152      571676     1780032    13354448
+Swap:       2097148           0     2097148
+
+              total        used        free      shared  buff/cache   available
+Mem:       16239656     1975572    12467728      587920     1796356    13376084
+Swap:       2097148           0     2097148
+

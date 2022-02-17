@@ -1,0 +1,29 @@
+!SESSION 2021-10-12 20:44:04.990 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-10-12 20:44:42.731
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\prith'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-10-12 20:45:22.593
+!MESSAGE Indexed 'hello' (1 sources, 0 headers) in 0.062 sec: 3 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 2 unresolved names (40%)
+
+!ENTRY org.eclipse.core.jobs 4 2 2021-10-12 20:45:45.213
+!MESSAGE An internal error occurred during: "Launching hello".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.cdt.core.build.ICBuildConfiguration.getBuildOutput()" because "buildConfig" is null
+	at org.eclipse.cdt.debug.core.launch.CoreBuildLaunchConfigDelegate.getBinary(CoreBuildLaunchConfigDelegate.java:109)
+	at org.eclipse.cdt.debug.internal.core.launch.CoreBuildLocalRunLaunchDelegate.launch(CoreBuildLocalRunLaunchDelegate.java:38)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:807)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:718)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1021)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$2.run(DebugUIPlugin.java:1224)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)

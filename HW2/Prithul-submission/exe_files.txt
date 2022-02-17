@@ -1,0 +1,3072 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 944E-D3B0
+
+ Directory of C:\Users\prith\.p2\pool\plugins\org.eclipse.cdt.core.win32.x86_64_6.0.100.202011060124\os\win32\x86_64
+
+12/08/2020  04:38 AM           402,799 starter.exe
+12/08/2020  04:38 AM           154,624 winpty-agent.exe
+               2 File(s)        557,423 bytes
+
+ Directory of C:\Users\prith\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507\jre\bin
+
+10/27/2020  05:03 AM            41,608 jabswitch.exe
+10/27/2020  05:03 AM           103,560 jaccessinspector.exe
+10/27/2020  05:03 AM            68,232 jaccesswalker.exe
+10/27/2020  05:03 AM            21,640 jaotc.exe
+10/27/2020  05:03 AM            20,616 jar.exe
+10/27/2020  05:03 AM            20,616 jarsigner.exe
+10/27/2020  05:03 AM            46,216 java.exe
+10/27/2020  05:03 AM            20,616 javac.exe
+10/27/2020  05:03 AM            20,616 javadoc.exe
+10/27/2020  05:03 AM            20,616 javap.exe
+10/27/2020  05:03 AM            46,216 javaw.exe
+10/27/2020  05:03 AM            20,616 jcmd.exe
+10/27/2020  05:03 AM            20,616 jconsole.exe
+10/27/2020  05:03 AM            20,616 jdb.exe
+10/27/2020  05:03 AM            20,616 jdeprscan.exe
+10/27/2020  05:03 AM            20,616 jdeps.exe
+10/27/2020  05:03 AM            20,616 jfr.exe
+10/27/2020  05:03 AM            20,616 jhsdb.exe
+10/27/2020  05:03 AM            20,616 jimage.exe
+10/27/2020  05:03 AM            20,616 jinfo.exe
+10/27/2020  05:03 AM            20,616 jlink.exe
+10/27/2020  05:03 AM            20,616 jmap.exe
+10/27/2020  05:03 AM            20,616 jmod.exe
+10/27/2020  05:03 AM            20,616 jps.exe
+10/27/2020  05:03 AM            20,616 jrunscript.exe
+10/27/2020  05:03 AM            20,616 jshell.exe
+10/27/2020  05:03 AM            20,616 jstack.exe
+10/27/2020  05:03 AM            20,616 jstat.exe
+10/27/2020  05:03 AM            20,616 jstatd.exe
+10/27/2020  05:03 AM            20,616 keytool.exe
+10/27/2020  05:03 AM            20,616 kinit.exe
+10/27/2020  05:03 AM            20,616 klist.exe
+10/27/2020  05:03 AM            20,616 ktab.exe
+10/27/2020  05:03 AM            20,616 rmid.exe
+10/27/2020  05:03 AM            20,616 rmiregistry.exe
+10/27/2020  05:03 AM            20,616 serialver.exe
+              36 File(s)        945,952 bytes
+
+ Directory of C:\Users\prith\.vscode\extensions\.6479f0af-19be-4e3b-9dbc-7adbac901cb0\pythonFiles\lib\python\debugpy\_vendored\pydevd\pydevd_attach_to_process
+
+07/14/2021  03:30 PM           273,832 inject_dll_amd64.exe
+07/14/2021  03:30 PM           218,536 inject_dll_x86.exe
+               2 File(s)        492,368 bytes
+
+ Directory of C:\Users\prith\.vscode\extensions\ms-python.python-2021.5.842923320\pythonFiles\lib\python\debugpy\_vendored\pydevd\pydevd_attach_to_process
+
+05/20/2021  01:02 AM           273,832 inject_dll_amd64.exe
+05/20/2021  01:02 AM           218,536 inject_dll_x86.exe
+               2 File(s)        492,368 bytes
+
+ Directory of C:\Users\prith\.vscode\extensions\ms-toolsai.jupyter-2021.6.832593372\out\BCryptGenRandom
+
+05/24/2021  02:03 PM            20,408 BCryptGenRandom.exe
+               1 File(s)         20,408 bytes
+
+ Directory of C:\Users\prith\anaconda3
+
+09/03/2020  07:30 PM            95,232 python.exe
+09/03/2020  07:30 PM            93,696 pythonw.exe
+03/15/2021  02:11 AM           319,076 Uninstall-Anaconda3.exe
+09/03/2020  07:29 PM           518,144 venvlauncher.exe
+09/03/2020  07:29 PM           517,120 venvwlauncher.exe
+11/13/2020  05:51 AM        19,309,814 _conda.exe
+               6 File(s)     20,853,082 bytes
+
+ Directory of C:\Users\prith\anaconda3\envs\pritvenv
+
+11/06/2019  03:02 PM            95,232 python.exe
+11/06/2019  03:02 PM            93,696 pythonw.exe
+11/06/2019  03:01 PM           518,144 venvlauncher.exe
+11/06/2019  03:01 PM           517,120 venvwlauncher.exe
+               4 File(s)      1,224,192 bytes
+
+ Directory of C:\Users\prith\anaconda3\envs\pritvenv\Lib\distutils\command
+
+10/14/2019  06:34 AM           222,208 wininst-10.0-amd64.exe
+10/14/2019  06:34 AM           190,976 wininst-10.0.exe
+10/14/2019  06:34 AM           587,776 wininst-14.0-amd64.exe
+10/14/2019  06:34 AM           458,240 wininst-14.0.exe
+10/14/2019  06:34 AM            61,440 wininst-6.0.exe
+10/14/2019  06:34 AM            65,536 wininst-7.1.exe
+10/14/2019  06:34 AM            61,440 wininst-8.0.exe
+10/14/2019  06:34 AM           224,256 wininst-9.0-amd64.exe
+10/14/2019  06:34 AM           196,096 wininst-9.0.exe
+               9 File(s)      2,067,968 bytes
+
+ Directory of C:\Users\prith\anaconda3\envs\pritvenv\Lib\site-packages\pip\_vendor\distlib
+
+01/30/2021  05:13 AM            96,768 t32.exe
+01/30/2021  05:13 AM           105,984 t64.exe
+01/30/2021  05:13 AM            90,112 w32.exe
+01/30/2021  05:13 AM            99,840 w64.exe
+               4 File(s)        392,704 bytes
+
+ Directory of C:\Users\prith\anaconda3\envs\pritvenv\Lib\site-packages\pythonwin
+
+01/15/2020  09:00 AM            72,704 Pythonwin.exe
+               1 File(s)         72,704 bytes
+
+ Directory of C:\Users\prith\anaconda3\envs\pritvenv\Lib\site-packages\setuptools
+
+01/23/2021  05:49 PM            65,536 cli-32.exe
+01/23/2021  05:49 PM            74,752 cli-64.exe
+01/23/2021  05:49 PM            65,536 cli.exe
+01/23/2021  05:49 PM            65,536 gui-32.exe
+01/23/2021  05:49 PM            75,264 gui-64.exe
+01/23/2021  05:49 PM            65,536 gui.exe
+               6 File(s)        412,160 bytes
+
+ Directory of C:\Users\prith\anaconda3\envs\pritvenv\Lib\site-packages\win32
+
+01/15/2020  09:00 AM            17,920 pythonservice.exe
+               1 File(s)         17,920 bytes
+
+ Directory of C:\Users\prith\anaconda3\envs\pritvenv\Library\bin
+
+12/12/2018  01:44 PM         1,228,288 assistant.exe
+12/12/2018  01:40 PM            38,912 canbusutil.exe
+11/08/2017  09:32 PM            34,304 cjpeg.exe
+04/27/2020  03:18 PM            25,088 derb.exe
+12/12/2018  01:46 PM           563,712 designer.exe
+11/08/2017  09:32 PM            29,696 djpeg.exe
+12/12/2018  01:40 PM           209,408 dumpcpp.exe
+12/12/2018  01:40 PM           166,912 dumpdoc.exe
+06/01/2020  07:13 AM            19,968 fax2ps.exe
+06/01/2020  07:13 AM            18,432 fax2tiff.exe
+04/27/2020  03:18 PM            20,992 genbrk.exe
+04/27/2020  03:18 PM            11,776 genccode.exe
+04/27/2020  03:18 PM            16,896 gencfu.exe
+04/27/2020  03:18 PM            12,288 gencmn.exe
+04/27/2020  03:18 PM            26,112 gencnval.exe
+04/27/2020  03:18 PM            28,160 gendict.exe
+04/27/2020  03:18 PM            52,224 gennorm2.exe
+04/27/2020  03:18 PM           138,240 genrb.exe
+04/27/2020  03:18 PM            25,088 gensprep.exe
+12/19/2018  11:37 AM         2,378,240 gif2h5.exe
+12/19/2018  11:37 AM         2,344,960 h52gif.exe
+12/19/2018  11:36 AM         2,303,488 h5clear.exe
+12/19/2018  11:37 AM            18,944 h5copy-shared.exe
+12/19/2018  11:36 AM         2,327,552 h5copy.exe
+12/19/2018  11:36 AM         2,310,144 h5debug.exe
+12/19/2018  11:37 AM            26,112 h5diff-shared.exe
+12/19/2018  11:36 AM         2,490,880 h5diff.exe
+12/19/2018  11:38 AM           112,128 h5dump-shared.exe
+12/19/2018  11:36 AM         2,616,320 h5dump.exe
+12/19/2018  11:36 AM         2,321,920 h5format_convert.exe
+12/19/2018  11:36 AM         2,369,024 h5import.exe
+12/19/2018  11:36 AM         2,297,344 h5jam.exe
+12/19/2018  11:37 AM            53,248 h5ls-shared.exe
+12/19/2018  11:36 AM         2,491,904 h5ls.exe
+12/19/2018  11:36 AM         2,302,976 h5mkgrp.exe
+12/19/2018  11:38 AM            87,040 h5repack-shared.exe
+12/19/2018  11:36 AM         2,509,824 h5repack.exe
+12/19/2018  11:36 AM         2,249,216 h5repart.exe
+12/19/2018  11:38 AM            33,792 h5stat-shared.exe
+12/19/2018  11:36 AM         2,350,592 h5stat.exe
+12/19/2018  11:36 AM         2,296,832 h5unjam.exe
+12/19/2018  11:37 AM         2,439,680 h5watch.exe
+04/27/2020  03:18 PM            12,288 icuinfo.exe
+04/27/2020  03:18 PM            25,088 icupkg.exe
+12/12/2018  01:40 PM           758,272 idc.exe
+11/08/2017  09:32 PM            37,376 jpegtran.exe
+12/12/2018  01:46 PM           200,192 lconvert.exe
+12/12/2018  01:46 PM         1,332,224 linguist.exe
+12/12/2018  01:46 PM           369,152 lrelease.exe
+12/12/2018  01:46 PM           684,032 lupdate.exe
+01/21/2021  11:59 AM           154,624 lz4.exe
+04/15/2020  09:37 PM            18,944 lzmainfo.exe
+04/27/2020  03:18 PM            55,296 makeconv.exe
+12/12/2018  01:37 PM         1,162,240 moc.exe
+03/25/2021  10:34 AM           543,744 openssl.exe
+06/01/2020  07:13 AM            16,896 pal2rgb.exe
+12/12/2018  01:43 PM            52,736 pixeltool.exe
+04/27/2020  03:18 PM            41,472 pkgdata.exe
+04/23/2019  10:51 AM            11,264 png-fix-itxt.exe
+04/23/2019  10:52 AM            54,272 pngfix.exe
+06/01/2020  07:13 AM            16,384 ppm2tiff.exe
+12/03/2020  03:49 PM            21,504 protoc.exe
+12/12/2018  01:44 PM            51,712 qcollectiongenerator.exe
+12/12/2018  01:43 PM            50,688 qdbus.exe
+12/12/2018  01:38 PM           192,000 qdbuscpp2xml.exe
+12/12/2018  01:43 PM           242,688 qdbusviewer.exe
+12/12/2018  01:38 PM            72,192 qdbusxml2cpp.exe
+12/12/2018  01:43 PM         1,166,848 qdoc.exe
+12/12/2018  01:48 PM         4,120,576 qgltf.exe
+12/12/2018  01:44 PM           172,544 qhelpconverter.exe
+12/12/2018  01:44 PM            26,112 qhelpgenerator.exe
+12/12/2018  01:38 PM           108,032 qlalr.exe
+12/12/2018  01:36 PM         2,373,632 qmake.exe
+12/12/2018  01:43 PM            54,272 qml.exe
+12/12/2018  01:42 PM           885,760 qmlcachegen.exe
+12/12/2018  01:43 PM           124,928 qmleasing.exe
+12/12/2018  01:42 PM           209,408 qmlimportscanner.exe
+12/12/2018  01:42 PM           150,528 qmllint.exe
+12/12/2018  01:42 PM            84,480 qmlmin.exe
+12/12/2018  01:43 PM           113,152 qmlplugindump.exe
+12/12/2018  01:42 PM           133,120 qmlprofiler.exe
+12/12/2018  01:43 PM            50,176 qmlscene.exe
+12/12/2018  01:42 PM            10,752 qmltestrunner.exe
+12/12/2018  01:44 PM           316,928 qscxmlc.exe
+12/12/2018  01:43 PM            53,760 qtattributionsscanner.exe
+12/12/2018  01:43 PM            55,296 qtdiag.exe
+12/12/2018  01:43 PM            32,256 qtpaths.exe
+12/12/2018  01:43 PM            28,160 qtplugininfo.exe
+12/12/2018  02:17 PM            19,456 QtWebEngineProcess.exe
+12/12/2018  02:17 PM           310,272 qwebengine_convert_dict.exe
+06/01/2020  07:13 AM            24,064 raw2tiff.exe
+12/12/2018  01:37 PM           956,928 rcc.exe
+11/08/2017  09:32 PM            14,848 rdjpgcom.exe
+12/12/2018  01:44 PM           378,368 repc.exe
+11/08/2019  12:58 AM           389,120 sip.exe
+04/02/2021  01:55 PM         1,715,712 sqlite3.exe
+06/18/2020  11:02 AM            70,656 tclsh.exe
+06/18/2020  11:02 AM            70,656 tclsh86.exe
+06/18/2020  11:02 AM            70,656 tclsh86t.exe
+12/12/2018  01:40 PM           602,624 testcon.exe
+06/01/2020  07:13 AM            17,920 tiff2bw.exe
+06/01/2020  07:13 AM            74,240 tiff2pdf.exe
+06/01/2020  07:13 AM            49,152 tiff2ps.exe
+06/01/2020  07:13 AM            17,920 tiff2rgba.exe
+06/01/2020  07:13 AM            21,504 tiffcmp.exe
+06/01/2020  07:13 AM            36,352 tiffcp.exe
+06/01/2020  07:13 AM           106,496 tiffcrop.exe
+06/01/2020  07:13 AM            15,872 tiffdither.exe
+06/01/2020  07:13 AM            20,992 tiffdump.exe
+06/01/2020  07:13 AM            18,432 tiffinfo.exe
+06/01/2020  07:13 AM            22,016 tiffmedian.exe
+06/01/2020  07:13 AM            14,848 tiffset.exe
+06/01/2020  07:13 AM            14,336 tiffsplit.exe
+04/27/2020  03:18 PM            54,784 uconv.exe
+12/12/2018  01:38 PM           380,928 uic.exe
+04/15/2020  09:37 PM            20,480 unxz.exe
+12/12/2018  01:43 PM         1,149,952 windeployqt.exe
+06/18/2020  11:05 AM            57,856 wish.exe
+06/18/2020  11:05 AM            57,856 wish86.exe
+06/18/2020  11:05 AM            57,856 wish86t.exe
+11/08/2017  09:32 PM            15,360 wrjpgcom.exe
+12/12/2018  01:40 PM            58,368 xmlpatterns.exe
+12/12/2018  01:40 PM            13,312 xmlpatternsvalidator.exe
+04/15/2020  09:37 PM            66,560 xz.exe
+04/15/2020  09:37 PM           195,072 xz_static.exe
+03/31/2021  03:12 PM           578,048 zstd.exe
+             126 File(s)     67,606,528 bytes
+
+ Directory of C:\Users\prith\anaconda3\envs\pritvenv\Library\bin\graphviz
+
+08/02/2018  11:34 PM            11,264 acyclic.exe
+08/02/2018  11:34 PM            13,312 bcomps.exe
+08/02/2018  11:34 PM            18,432 ccomps.exe
+08/02/2018  11:34 PM             7,680 circo.exe
+08/02/2018  11:34 PM            58,368 diffimg.exe
+08/02/2018  11:34 PM            12,800 dijkstra.exe
+08/02/2018  11:34 PM             7,680 dot.exe
+08/02/2018  11:34 PM             7,680 dotty.exe
+08/02/2018  11:34 PM        20,121,600 edgepaint.exe
+08/02/2018  11:34 PM            28,565 fc-cache.exe
+08/02/2018  11:34 PM            14,848 fc-cat.exe
+08/02/2018  11:34 PM            23,770 fc-list.exe
+08/02/2018  11:34 PM            11,776 fc-match.exe
+08/02/2018  11:34 PM             7,680 fdp.exe
+08/02/2018  11:34 PM            11,776 gc.exe
+08/02/2018  11:34 PM            19,456 gml2gv.exe
+08/02/2018  11:34 PM             7,168 graphml2gv.exe
+08/02/2018  11:34 PM            19,456 gv2gml.exe
+08/02/2018  11:34 PM            11,776 gvcolor.exe
+08/02/2018  11:34 PM           166,400 gvedit.exe
+08/02/2018  11:34 PM            20,992 gvgen.exe
+08/02/2018  11:34 PM        20,494,336 gvmap.exe
+08/02/2018  11:34 PM            19,456 gvpack.exe
+08/02/2018  11:34 PM           339,968 gvpr.exe
+08/02/2018  11:34 PM            30,720 gxl2gv.exe
+08/02/2018  11:34 PM           217,600 lefty.exe
+08/02/2018  11:34 PM             7,680 lneato.exe
+08/02/2018  11:34 PM           257,024 mingle.exe
+08/02/2018  11:34 PM            77,824 mm2gv.exe
+08/02/2018  11:34 PM             7,680 neato.exe
+08/02/2018  11:34 PM             9,216 nop.exe
+08/02/2018  11:34 PM             7,680 osage.exe
+08/02/2018  11:34 PM             7,680 patchwork.exe
+08/02/2018  11:34 PM            12,288 prune.exe
+08/02/2018  11:34 PM            13,312 sccmap.exe
+08/02/2018  11:34 PM             7,680 sfdp.exe
+08/02/2018  11:34 PM           727,552 smyrna.exe
+08/02/2018  11:34 PM            10,240 tred.exe
+08/02/2018  11:34 PM             7,680 twopi.exe
+08/02/2018  11:34 PM            11,264 unflatten.exe
+              40 File(s)     42,869,359 bytes
+
+ Directory of C:\Users\prith\anaconda3\envs\pritvenv\Scripts
+
+10/14/2019  08:37 AM            40,960 2to3.exe
+10/26/2020  08:42 AM            41,984 chardetect.exe
+01/15/2021  03:04 AM            41,984 coverage.exe
+01/15/2021  03:04 AM            41,984 cygdb.exe
+01/15/2021  03:04 AM            41,984 cython.exe
+01/15/2021  03:04 AM            41,984 cythonize.exe
+10/26/2020  08:42 AM            41,984 estimator_ckpt_converter.exe
+10/13/2020  08:31 PM            41,984 f2py.exe
+03/31/2021  07:13 AM            74,752 google-oauthlib-tool.exe
+10/14/2019  08:37 AM            40,960 idle.exe
+01/15/2021  03:04 AM            41,984 iptest.exe
+01/15/2021  03:04 AM            41,984 iptest3.exe
+01/15/2021  03:04 AM            41,984 ipython.exe
+01/15/2021  03:04 AM            41,984 ipython3.exe
+03/31/2021  07:13 AM            74,752 jsonschema.exe
+03/31/2021  07:13 AM            74,752 jupyter-kernel.exe
+03/31/2021  07:13 AM            74,752 jupyter-kernelspec.exe
+01/15/2021  03:04 AM            41,984 jupyter-migrate.exe
+03/31/2021  07:13 AM            74,752 jupyter-run.exe
+01/15/2021  03:04 AM            41,984 jupyter-troubleshoot.exe
+03/31/2021  07:13 AM            74,752 jupyter-trust.exe
+01/15/2021  03:04 AM            41,984 jupyter.exe
+01/15/2021  03:04 AM            41,984 markdown_py.exe
+01/15/2021  03:04 AM            41,984 pip.exe
+01/15/2021  03:04 AM            41,984 pip3.exe
+10/14/2019  08:37 AM            40,960 pydoc.exe
+11/10/2020  04:09 PM            74,752 pygmentize.exe
+11/01/2019  02:30 PM            40,960 pyjwt.exe
+03/31/2021  07:13 AM            74,752 pyrsa-decrypt.exe
+03/31/2021  07:13 AM            74,752 pyrsa-encrypt.exe
+03/31/2021  07:13 AM            74,752 pyrsa-keygen.exe
+03/31/2021  07:13 AM            74,752 pyrsa-priv2pub.exe
+03/31/2021  07:13 AM            74,752 pyrsa-sign.exe
+03/31/2021  07:13 AM            74,752 pyrsa-verify.exe
+10/26/2020  08:42 AM            41,984 saved_model_cli.exe
+11/10/2020  04:09 PM            74,752 tensorboard.exe
+10/26/2020  08:42 AM            41,984 tflite_convert.exe
+10/26/2020  08:42 AM            41,984 tf_upgrade_v2.exe
+10/26/2020  08:42 AM            41,984 toco.exe
+10/26/2020  08:42 AM            41,984 toco_from_protos.exe
+11/10/2020  04:09 PM            74,752 wheel.exe
+              41 File(s)      2,208,768 bytes
+
+ Directory of C:\Users\prith\anaconda3\Lib\distutils\command
+
+07/20/2020  06:01 AM           222,208 wininst-10.0-amd64.exe
+07/20/2020  06:01 AM           190,976 wininst-10.0.exe
+07/20/2020  06:01 AM           587,776 wininst-14.0-amd64.exe
+07/20/2020  06:01 AM           458,240 wininst-14.0.exe
+07/20/2020  06:01 AM            61,440 wininst-6.0.exe
+07/20/2020  06:01 AM            65,536 wininst-7.1.exe
+07/20/2020  06:01 AM            61,440 wininst-8.0.exe
+07/20/2020  06:01 AM           224,256 wininst-9.0-amd64.exe
+07/20/2020  06:01 AM           196,096 wininst-9.0.exe
+               9 File(s)      2,067,968 bytes
+
+ Directory of C:\Users\prith\anaconda3\Lib\site-packages\conda\shell
+
+03/30/2021  03:03 PM            65,536 cli-32.exe
+03/30/2021  03:03 PM            74,752 cli-64.exe
+               2 File(s)        140,288 bytes
+
+ Directory of C:\Users\prith\anaconda3\Lib\site-packages\conda_build
+
+10/26/2020  08:42 AM            40,960 cli-32.exe
+10/26/2020  08:42 AM            41,984 cli-64.exe
+               2 File(s)         82,944 bytes
+
+ Directory of C:\Users\prith\anaconda3\Lib\site-packages\pip\_vendor\distlib
+
+10/17/2020  02:44 PM            96,768 t32.exe
+10/17/2020  02:44 PM           105,984 t64.exe
+10/17/2020  02:44 PM            90,112 w32.exe
+10/17/2020  02:44 PM            99,840 w64.exe
+               4 File(s)        392,704 bytes
+
+ Directory of C:\Users\prith\anaconda3\Lib\site-packages\pythonwin
+
+01/15/2020  09:00 AM            72,704 Pythonwin.exe
+               1 File(s)         72,704 bytes
+
+ Directory of C:\Users\prith\anaconda3\Lib\site-packages\setuptools
+
+10/14/2020  05:13 PM            65,536 cli-32.exe
+10/14/2020  05:13 PM            74,752 cli-64.exe
+10/14/2020  05:13 PM            65,536 cli.exe
+10/14/2020  05:13 PM            65,536 gui-32.exe
+10/14/2020  05:13 PM            75,264 gui-64.exe
+10/14/2020  05:13 PM            65,536 gui.exe
+               6 File(s)        412,160 bytes
+
+ Directory of C:\Users\prith\anaconda3\Lib\site-packages\testpath
+
+11/16/2019  03:22 PM            65,536 cli-32.exe
+11/16/2019  03:22 PM            74,752 cli-64.exe
+               2 File(s)        140,288 bytes
+
+ Directory of C:\Users\prith\anaconda3\Lib\site-packages\win32
+
+01/15/2020  09:00 AM            17,920 pythonservice.exe
+               1 File(s)         17,920 bytes
+
+ Directory of C:\Users\prith\anaconda3\Library\bin
+
+12/12/2018  01:44 PM         1,228,288 assistant.exe
+04/18/2020  06:05 AM           228,352 bsdcat.exe
+04/18/2020  06:05 AM         1,122,304 bsdcpio.exe
+04/18/2020  06:05 AM         1,155,072 bsdtar.exe
+12/12/2018  01:40 PM            38,912 canbusutil.exe
+06/29/2020  06:21 AM           157,184 ccapiserver.exe
+11/08/2017  09:32 PM            34,304 cjpeg.exe
+07/15/2020  09:11 AM           345,600 curl.exe
+04/27/2020  03:18 PM            25,088 derb.exe
+12/12/2018  01:46 PM           563,712 designer.exe
+11/08/2017  09:32 PM            29,696 djpeg.exe
+12/12/2018  01:40 PM           209,408 dumpcpp.exe
+12/12/2018  01:40 PM           166,912 dumpdoc.exe
+06/01/2020  07:13 AM            19,968 fax2ps.exe
+06/01/2020  07:13 AM            18,432 fax2tiff.exe
+04/27/2020  03:18 PM            20,992 genbrk.exe
+04/27/2020  03:18 PM            11,776 genccode.exe
+04/27/2020  03:18 PM            16,896 gencfu.exe
+04/27/2020  03:18 PM            12,288 gencmn.exe
+04/27/2020  03:18 PM            26,112 gencnval.exe
+04/27/2020  03:18 PM            28,160 gendict.exe
+04/27/2020  03:18 PM            52,224 gennorm2.exe
+04/27/2020  03:18 PM           138,240 genrb.exe
+04/27/2020  03:18 PM            25,088 gensprep.exe
+12/19/2018  11:37 AM         2,378,240 gif2h5.exe
+06/29/2020  06:22 AM            26,624 gss-client.exe
+06/29/2020  06:22 AM            25,600 gss-server.exe
+12/19/2018  11:37 AM         2,344,960 h52gif.exe
+12/19/2018  11:36 AM         2,303,488 h5clear.exe
+12/19/2018  11:37 AM            18,944 h5copy-shared.exe
+12/19/2018  11:36 AM         2,327,552 h5copy.exe
+12/19/2018  11:36 AM         2,310,144 h5debug.exe
+12/19/2018  11:37 AM            26,112 h5diff-shared.exe
+12/19/2018  11:36 AM         2,490,880 h5diff.exe
+12/19/2018  11:38 AM           112,128 h5dump-shared.exe
+12/19/2018  11:36 AM         2,616,320 h5dump.exe
+12/19/2018  11:36 AM         2,321,920 h5format_convert.exe
+12/19/2018  11:36 AM         2,369,024 h5import.exe
+12/19/2018  11:36 AM         2,297,344 h5jam.exe
+12/19/2018  11:37 AM            53,248 h5ls-shared.exe
+12/19/2018  11:36 AM         2,491,904 h5ls.exe
+12/19/2018  11:36 AM         2,302,976 h5mkgrp.exe
+12/19/2018  11:38 AM            87,040 h5repack-shared.exe
+12/19/2018  11:36 AM         2,509,824 h5repack.exe
+12/19/2018  11:36 AM         2,249,216 h5repart.exe
+12/19/2018  11:38 AM            33,792 h5stat-shared.exe
+12/19/2018  11:36 AM         2,350,592 h5stat.exe
+12/19/2018  11:36 AM         2,296,832 h5unjam.exe
+12/19/2018  11:37 AM         2,439,680 h5watch.exe
+04/27/2020  03:18 PM            12,288 icuinfo.exe
+04/27/2020  03:18 PM            25,088 icupkg.exe
+12/12/2018  01:40 PM           758,272 idc.exe
+11/08/2017  09:32 PM            37,376 jpegtran.exe
+06/29/2020  06:22 AM            13,824 kcpytkt.exe
+06/29/2020  06:22 AM            13,824 kdeltkt.exe
+06/29/2020  06:22 AM            14,336 kdestroy.exe
+06/29/2020  06:22 AM            30,208 kfwcpcc.exe
+06/29/2020  06:22 AM            27,136 kinit.exe
+06/29/2020  06:22 AM            27,136 klist.exe
+06/29/2020  06:22 AM            14,336 kpasswd.exe
+06/29/2020  06:22 AM            12,800 kswitch.exe
+06/29/2020  06:22 AM            20,480 kvno.exe
+12/12/2018  01:46 PM           200,192 lconvert.exe
+12/12/2018  01:46 PM         1,332,224 linguist.exe
+12/12/2018  01:46 PM           369,152 lrelease.exe
+12/12/2018  01:46 PM           684,032 lupdate.exe
+10/01/2020  07:15 AM           143,360 lz4.exe
+04/15/2020  09:37 PM            18,944 lzmainfo.exe
+04/27/2020  03:18 PM            55,296 makeconv.exe
+06/29/2020  06:22 AM            13,312 mit2ms.exe
+12/12/2018  01:37 PM         1,162,240 moc.exe
+06/29/2020  06:22 AM            14,848 ms2mit.exe
+09/22/2020  06:53 AM           543,744 openssl.exe
+06/01/2020  07:13 AM            16,896 pal2rgb.exe
+12/12/2018  01:43 PM            52,736 pixeltool.exe
+04/27/2020  03:18 PM            41,472 pkgdata.exe
+04/23/2019  10:51 AM            11,264 png-fix-itxt.exe
+04/23/2019  10:52 AM            54,272 pngfix.exe
+06/01/2020  07:13 AM            16,384 ppm2tiff.exe
+12/12/2018  01:44 PM            51,712 qcollectiongenerator.exe
+12/12/2018  01:43 PM            50,688 qdbus.exe
+12/12/2018  01:38 PM           192,000 qdbuscpp2xml.exe
+12/12/2018  01:43 PM           242,688 qdbusviewer.exe
+12/12/2018  01:38 PM            72,192 qdbusxml2cpp.exe
+12/12/2018  01:43 PM         1,166,848 qdoc.exe
+12/12/2018  01:48 PM         4,120,576 qgltf.exe
+12/12/2018  01:44 PM           172,544 qhelpconverter.exe
+12/12/2018  01:44 PM            26,112 qhelpgenerator.exe
+12/12/2018  01:38 PM           108,032 qlalr.exe
+12/12/2018  01:36 PM         2,373,632 qmake.exe
+12/12/2018  01:43 PM            54,272 qml.exe
+12/12/2018  01:42 PM           885,760 qmlcachegen.exe
+12/12/2018  01:43 PM           124,928 qmleasing.exe
+12/12/2018  01:42 PM           209,408 qmlimportscanner.exe
+12/12/2018  01:42 PM           150,528 qmllint.exe
+12/12/2018  01:42 PM            84,480 qmlmin.exe
+12/12/2018  01:43 PM           113,152 qmlplugindump.exe
+12/12/2018  01:42 PM           133,120 qmlprofiler.exe
+12/12/2018  01:43 PM            50,176 qmlscene.exe
+12/12/2018  01:42 PM            10,752 qmltestrunner.exe
+12/12/2018  01:44 PM           316,928 qscxmlc.exe
+12/12/2018  01:43 PM            53,760 qtattributionsscanner.exe
+12/12/2018  01:43 PM            55,296 qtdiag.exe
+12/12/2018  01:43 PM            32,256 qtpaths.exe
+12/12/2018  01:43 PM            28,160 qtplugininfo.exe
+12/12/2018  02:17 PM            19,456 QtWebEngineProcess.exe
+12/12/2018  02:17 PM           310,272 qwebengine_convert_dict.exe
+06/01/2020  07:13 AM            24,064 raw2tiff.exe
+12/12/2018  01:37 PM           956,928 rcc.exe
+11/08/2017  09:32 PM            14,848 rdjpgcom.exe
+12/12/2018  01:44 PM           378,368 repc.exe
+10/20/2020  03:08 PM            18,944 runxmlconf.exe
+11/08/2019  12:58 AM           389,120 sip.exe
+08/20/2020  03:00 AM         1,852,928 sqlite3.exe
+06/18/2020  11:02 AM            70,656 tclsh.exe
+06/18/2020  11:02 AM            70,656 tclsh86.exe
+06/18/2020  11:02 AM            70,656 tclsh86t.exe
+12/12/2018  01:40 PM           602,624 testcon.exe
+06/01/2020  07:13 AM            17,920 tiff2bw.exe
+06/01/2020  07:13 AM            74,240 tiff2pdf.exe
+06/01/2020  07:13 AM            49,152 tiff2ps.exe
+06/01/2020  07:13 AM            17,920 tiff2rgba.exe
+06/01/2020  07:13 AM            21,504 tiffcmp.exe
+06/01/2020  07:13 AM            36,352 tiffcp.exe
+06/01/2020  07:13 AM           106,496 tiffcrop.exe
+06/01/2020  07:13 AM            15,872 tiffdither.exe
+06/01/2020  07:13 AM            20,992 tiffdump.exe
+06/01/2020  07:13 AM            18,432 tiffinfo.exe
+06/01/2020  07:13 AM            22,016 tiffmedian.exe
+06/01/2020  07:13 AM            14,848 tiffset.exe
+06/01/2020  07:13 AM            14,336 tiffsplit.exe
+04/27/2020  03:18 PM            54,784 uconv.exe
+12/12/2018  01:38 PM           380,928 uic.exe
+04/15/2020  09:37 PM            20,480 unxz.exe
+12/12/2018  01:43 PM         1,149,952 windeployqt.exe
+02/02/2018  10:44 AM         2,627,338 winpty-agent.exe
+06/18/2020  11:05 AM            57,856 wish.exe
+06/18/2020  11:05 AM            57,856 wish86.exe
+06/18/2020  11:05 AM            57,856 wish86t.exe
+11/08/2017  09:32 PM            15,360 wrjpgcom.exe
+10/20/2020  03:08 PM            18,944 xmlcatalog.exe
+10/20/2020  03:08 PM            56,832 xmllint.exe
+12/12/2018  01:40 PM            58,368 xmlpatterns.exe
+12/12/2018  01:40 PM            13,312 xmlpatternsvalidator.exe
+06/12/2020  12:01 PM            24,064 xsltproc.exe
+04/15/2020  09:37 PM            66,560 xz.exe
+04/15/2020  09:37 PM           195,072 xz_static.exe
+07/28/2020  07:32 AM           540,160 zstd.exe
+             148 File(s)     73,682,186 bytes
+
+
+04/16/2020  02:57 PM            28,160 lzopack.exe
+04/16/2020  02:57 PM           145,920 lzotest.exe
+04/16/2020  02:57 PM            15,872 simple.exe
+04/16/2020  02:57 PM            15,872 testmini.exe
+               4 File(s)        205,824 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\anaconda-client-1.7.2-py38_0\Scripts
+
+01/26/2019  08:02 PM            40,960 anaconda.exe
+01/26/2019  08:02 PM            40,960 binstar.exe
+01/26/2019  08:02 PM            40,960 conda-server.exe
+               3 File(s)        122,880 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\anaconda-navigator-1.10.0-py38_0\Scripts
+
+09/29/2020  01:01 PM            41,984 anaconda-navigator.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\astropy-4.0.2-py38he774522_0\Scripts
+
+09/29/2020  01:01 PM            41,984 fits2bitmap.exe
+09/29/2020  01:01 PM            41,984 fitscheck.exe
+09/29/2020  01:01 PM            41,984 fitsdiff.exe
+09/29/2020  01:01 PM            41,984 fitsheader.exe
+09/29/2020  01:01 PM            41,984 fitsinfo.exe
+09/29/2020  01:01 PM            41,984 samp_hub.exe
+10/13/2020  08:13 AM            74,752 showtable.exe
+09/29/2020  01:01 PM            41,984 volint.exe
+09/29/2020  01:01 PM            41,984 wcslint.exe
+               9 File(s)        410,624 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\bokeh-2.2.3-py38_0\Scripts
+
+10/13/2020  08:31 PM            41,984 bokeh.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\boto-2.49.0-py38_0\Scripts
+
+10/14/2019  08:37 AM            40,960 asadmin.exe
+10/14/2019  08:37 AM            40,960 bundle_image.exe
+10/14/2019  08:37 AM            40,960 cfadmin.exe
+10/14/2019  08:37 AM            40,960 cq.exe
+10/14/2019  08:37 AM            40,960 cwutil.exe
+10/14/2019  08:37 AM            40,960 dynamodb_dump.exe
+10/14/2019  08:37 AM            40,960 dynamodb_load.exe
+10/14/2019  08:37 AM            40,960 elbadmin.exe
+10/14/2019  08:37 AM            40,960 fetch_file.exe
+10/14/2019  08:37 AM            40,960 glacier.exe
+10/14/2019  08:37 AM            40,960 instance_events.exe
+10/14/2019  08:37 AM            40,960 kill_instance.exe
+10/14/2019  08:37 AM            40,960 launch_instance.exe
+10/14/2019  08:37 AM            40,960 list_instances.exe
+10/14/2019  08:37 AM            40,960 lss3.exe
+10/14/2019  08:37 AM            40,960 mturk.exe
+10/14/2019  08:37 AM            40,960 pyami_sendmail.exe
+10/14/2019  08:37 AM            40,960 route53.exe
+10/14/2019  08:37 AM            40,960 s3put.exe
+10/14/2019  08:37 AM            40,960 sdbadmin.exe
+10/14/2019  08:37 AM            40,960 taskadmin.exe
+              21 File(s)        860,160 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\chardet-3.0.4-py37_1003\Scripts
+
+07/23/2019  09:00 AM            40,960 chardetect.exe
+               1 File(s)         40,960 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\chardet-3.0.4-py38haa95532_1003\Scripts
+
+10/26/2020  08:42 AM            41,984 chardetect.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\chardet-3.0.4-py38_1003\Scripts
+
+10/14/2019  08:37 AM            40,960 chardetect.exe
+               1 File(s)         40,960 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\conda-4.10.0-py38haa244fe_0\Lib\site-packages\conda\shell
+
+03/30/2021  03:03 PM            65,536 cli-32.exe
+03/30/2021  03:03 PM            74,752 cli-64.exe
+               2 File(s)        140,288 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\conda-4.10.0-py38haa244fe_0\Scripts
+
+03/30/2021  03:03 PM            74,752 conda-env.exe
+03/31/2021  07:13 AM            74,752 conda.exe
+               2 File(s)        149,504 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\conda-4.9.2-py38haa95532_0\Lib\site-packages\conda\shell
+
+11/10/2020  06:54 PM            65,536 cli-32.exe
+11/10/2020  06:54 PM            74,752 cli-64.exe
+               2 File(s)        140,288 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\conda-4.9.2-py38haa95532_0\Scripts
+
+11/10/2020  06:54 PM            74,752 conda-env.exe
+11/10/2020  04:09 PM            74,752 conda.exe
+               2 File(s)        149,504 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\conda-build-3.20.5-py38_1\Lib\site-packages\conda_build
+
+10/26/2020  08:42 AM            40,960 cli-32.exe
+10/26/2020  08:42 AM            41,984 cli-64.exe
+               2 File(s)         82,944 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\conda-build-3.20.5-py38_1\Scripts
+
+10/13/2020  08:31 PM            41,984 conda-build.exe
+10/13/2020  08:31 PM            41,984 conda-convert.exe
+10/13/2020  08:31 PM            41,984 conda-debug.exe
+10/13/2020  08:31 PM            41,984 conda-develop.exe
+10/13/2020  08:31 PM            41,984 conda-index.exe
+10/13/2020  08:31 PM            41,984 conda-inspect.exe
+10/13/2020  08:31 PM            41,984 conda-metapackage.exe
+10/13/2020  08:31 PM            41,984 conda-render.exe
+10/13/2020  08:31 PM            41,984 conda-skeleton.exe
+               9 File(s)        377,856 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\conda-package-handling-1.7.2-py38h76e460a_0\Scripts
+
+10/17/2020  11:41 PM            41,984 cph.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\coverage-5.5-py37h2bbff1b_2\Scripts
+
+01/15/2021  03:04 AM            41,984 coverage.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\coverage-5.5-py38h2bbff1b_2\Scripts
+
+01/15/2021  03:04 AM            41,984 coverage.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\curl-7.71.1-h2a8f88b_1\Library\bin
+
+07/15/2020  09:11 AM           345,600 curl.exe
+               1 File(s)        345,600 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\cython-0.29.21-py38ha925a31_0\Scripts
+
+01/26/2019  08:02 PM            40,960 cygdb.exe
+01/26/2019  08:02 PM            40,960 cython.exe
+01/26/2019  08:02 PM            40,960 cythonize.exe
+               3 File(s)        122,880 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\cython-0.29.22-py37hd77b12b_0\Scripts
+
+01/15/2021  03:04 AM            41,984 cygdb.exe
+01/15/2021  03:04 AM            41,984 cython.exe
+01/15/2021  03:04 AM            41,984 cythonize.exe
+               3 File(s)        125,952 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\cython-0.29.22-py38hd77b12b_0\Scripts
+
+01/15/2021  03:04 AM            41,984 cygdb.exe
+01/15/2021  03:04 AM            41,984 cython.exe
+01/15/2021  03:04 AM            41,984 cythonize.exe
+               3 File(s)        125,952 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\distributed-2.30.1-py38haa95532_0\Scripts
+
+10/26/2020  08:42 AM            41,984 dask-scheduler.exe
+10/26/2020  08:42 AM            41,984 dask-ssh.exe
+10/26/2020  08:42 AM            41,984 dask-worker.exe
+               3 File(s)        125,952 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\future-0.18.2-py38_1\Scripts
+
+11/01/2019  02:30 PM            40,960 futurize.exe
+11/01/2019  02:30 PM            40,960 pasteurize.exe
+               2 File(s)         81,920 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\graphviz-2.38-hfd603c8_2\Library\bin\graphviz
+
+08/02/2018  11:34 PM            11,264 acyclic.exe
+08/02/2018  11:34 PM            13,312 bcomps.exe
+08/02/2018  11:34 PM            18,432 ccomps.exe
+08/02/2018  11:34 PM             7,680 circo.exe
+08/02/2018  11:34 PM            58,368 diffimg.exe
+08/02/2018  11:34 PM            12,800 dijkstra.exe
+08/02/2018  11:34 PM             7,680 dot.exe
+08/02/2018  11:34 PM             7,680 dotty.exe
+08/02/2018  11:34 PM        20,121,600 edgepaint.exe
+08/02/2018  11:34 PM            28,565 fc-cache.exe
+08/02/2018  11:34 PM            14,848 fc-cat.exe
+08/02/2018  11:34 PM            23,770 fc-list.exe
+08/02/2018  11:34 PM            11,776 fc-match.exe
+08/02/2018  11:34 PM             7,680 fdp.exe
+08/02/2018  11:34 PM            11,776 gc.exe
+08/02/2018  11:34 PM            19,456 gml2gv.exe
+08/02/2018  11:34 PM             7,168 graphml2gv.exe
+08/02/2018  11:34 PM            19,456 gv2gml.exe
+08/02/2018  11:34 PM            11,776 gvcolor.exe
+08/02/2018  11:34 PM           166,400 gvedit.exe
+08/02/2018  11:34 PM            20,992 gvgen.exe
+08/02/2018  11:34 PM        20,494,336 gvmap.exe
+08/02/2018  11:34 PM            19,456 gvpack.exe
+08/02/2018  11:34 PM           339,968 gvpr.exe
+08/02/2018  11:34 PM            30,720 gxl2gv.exe
+08/02/2018  11:34 PM           217,600 lefty.exe
+08/02/2018  11:34 PM             7,680 lneato.exe
+08/02/2018  11:34 PM           257,024 mingle.exe
+08/02/2018  11:34 PM            77,824 mm2gv.exe
+08/02/2018  11:34 PM             7,680 neato.exe
+08/02/2018  11:34 PM             9,216 nop.exe
+08/02/2018  11:34 PM             7,680 osage.exe
+08/02/2018  11:34 PM             7,680 patchwork.exe
+08/02/2018  11:34 PM            12,288 prune.exe
+08/02/2018  11:34 PM            13,312 sccmap.exe
+08/02/2018  11:34 PM             7,680 sfdp.exe
+08/02/2018  11:34 PM           727,552 smyrna.exe
+08/02/2018  11:34 PM            10,240 tred.exe
+08/02/2018  11:34 PM             7,680 twopi.exe
+08/02/2018  11:34 PM            11,264 unflatten.exe
+              40 File(s)     42,869,359 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\hdf5-1.10.4-h7ebc959_0\Library\bin
+
+12/19/2018  11:37 AM         2,378,240 gif2h5.exe
+12/19/2018  11:37 AM         2,344,960 h52gif.exe
+12/19/2018  11:36 AM         2,303,488 h5clear.exe
+12/19/2018  11:37 AM            18,944 h5copy-shared.exe
+12/19/2018  11:36 AM         2,327,552 h5copy.exe
+12/19/2018  11:36 AM         2,310,144 h5debug.exe
+12/19/2018  11:37 AM            26,112 h5diff-shared.exe
+12/19/2018  11:36 AM         2,490,880 h5diff.exe
+12/19/2018  11:38 AM           112,128 h5dump-shared.exe
+12/19/2018  11:36 AM         2,616,320 h5dump.exe
+12/19/2018  11:36 AM         2,321,920 h5format_convert.exe
+12/19/2018  11:36 AM         2,369,024 h5import.exe
+12/19/2018  11:36 AM         2,297,344 h5jam.exe
+12/19/2018  11:37 AM            53,248 h5ls-shared.exe
+12/19/2018  11:36 AM         2,491,904 h5ls.exe
+12/19/2018  11:36 AM         2,302,976 h5mkgrp.exe
+12/19/2018  11:38 AM            87,040 h5repack-shared.exe
+12/19/2018  11:36 AM         2,509,824 h5repack.exe
+12/19/2018  11:36 AM         2,249,216 h5repart.exe
+12/19/2018  11:38 AM            33,792 h5stat-shared.exe
+12/19/2018  11:36 AM         2,350,592 h5stat.exe
+12/19/2018  11:36 AM         2,296,832 h5unjam.exe
+12/19/2018  11:37 AM         2,439,680 h5watch.exe
+              23 File(s)     40,732,160 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\hdf5-1.10.6-nompi_h5268f04_1114\Library\bin
+
+01/08/2021  04:02 PM            19,968 gif2h5-shared.exe
+01/08/2021  04:02 PM         2,433,536 gif2h5.exe
+01/08/2021  04:02 PM            15,872 h52gif-shared.exe
+01/08/2021  04:02 PM         2,401,280 h52gif.exe
+01/08/2021  04:02 PM            15,872 h5clear-shared.exe
+01/08/2021  04:02 PM         2,360,320 h5clear.exe
+01/08/2021  04:02 PM            18,944 h5copy-shared.exe
+01/08/2021  04:02 PM         2,381,824 h5copy.exe
+01/08/2021  04:02 PM            23,552 h5debug-shared.exe
+01/08/2021  04:02 PM         2,338,816 h5debug.exe
+01/08/2021  04:02 PM            26,112 h5diff-shared.exe
+01/08/2021  04:02 PM         2,546,176 h5diff.exe
+01/08/2021  04:02 PM           114,688 h5dump-shared.exe
+01/08/2021  04:02 PM         2,642,432 h5dump.exe
+01/08/2021  04:02 PM            16,384 h5format_convert-shared.exe
+01/08/2021  04:02 PM         2,377,728 h5format_convert.exe
+01/08/2021  04:02 PM            69,632 h5import-shared.exe
+01/08/2021  04:02 PM         2,425,856 h5import.exe
+01/08/2021  04:02 PM            16,896 h5jam-shared.exe
+01/08/2021  04:02 PM         2,353,664 h5jam.exe
+01/08/2021  04:02 PM            55,808 h5ls-shared.exe
+01/08/2021  04:02 PM         2,550,272 h5ls.exe
+01/08/2021  04:02 PM            13,312 h5mkgrp-shared.exe
+01/08/2021  04:02 PM         2,359,296 h5mkgrp.exe
+01/08/2021  04:02 PM            88,576 h5repack-shared.exe
+01/08/2021  04:02 PM         2,566,656 h5repack.exe
+01/08/2021  04:02 PM            15,360 h5repart-shared.exe
+01/08/2021  04:02 PM         2,278,400 h5repart.exe
+01/08/2021  04:02 PM            36,864 h5stat-shared.exe
+01/08/2021  04:02 PM         2,411,008 h5stat.exe
+01/08/2021  04:02 PM            15,872 h5unjam-shared.exe
+01/08/2021  04:02 PM         2,353,152 h5unjam.exe
+01/08/2021  04:02 PM            24,064 h5watch-shared.exe
+01/08/2021  04:02 PM         2,494,976 h5watch.exe
+              34 File(s)     41,863,168 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\icu-58.2-ha925a31_3\Library\bin
+
+04/27/2020  03:18 PM            25,088 derb.exe
+04/27/2020  03:18 PM            20,992 genbrk.exe
+04/27/2020  03:18 PM            11,776 genccode.exe
+04/27/2020  03:18 PM            16,896 gencfu.exe
+04/27/2020  03:18 PM            12,288 gencmn.exe
+04/27/2020  03:18 PM            26,112 gencnval.exe
+04/27/2020  03:18 PM            28,160 gendict.exe
+04/27/2020  03:18 PM            52,224 gennorm2.exe
+04/27/2020  03:18 PM           138,240 genrb.exe
+04/27/2020  03:18 PM            25,088 gensprep.exe
+04/27/2020  03:18 PM            12,288 icuinfo.exe
+04/27/2020  03:18 PM            25,088 icupkg.exe
+04/27/2020  03:18 PM            55,296 makeconv.exe
+04/27/2020  03:18 PM            41,472 pkgdata.exe
+04/27/2020  03:18 PM            54,784 uconv.exe
+              15 File(s)        545,792 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\ipython-7.18.1-py38h5ca1d4c_0\Scripts
+
+01/26/2019  08:02 PM            40,960 iptest.exe
+01/26/2019  08:02 PM            40,960 iptest3.exe
+01/26/2019  08:02 PM            40,960 ipython.exe
+01/26/2019  08:02 PM            40,960 ipython3.exe
+               4 File(s)        163,840 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\ipython-7.19.0-py38hd4e2768_0\Scripts
+
+10/26/2020  08:42 AM            41,984 iptest.exe
+10/26/2020  08:42 AM            41,984 iptest3.exe
+10/26/2020  08:42 AM            41,984 ipython.exe
+10/26/2020  08:42 AM            41,984 ipython3.exe
+               4 File(s)        167,936 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\ipython-7.21.0-py37hd4e2768_0\Scripts
+
+01/15/2021  03:04 AM            41,984 iptest.exe
+01/15/2021  03:04 AM            41,984 iptest3.exe
+01/15/2021  03:04 AM            41,984 ipython.exe
+01/15/2021  03:04 AM            41,984 ipython3.exe
+               4 File(s)        167,936 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\ipython-7.22.0-py38hd4e2768_0\Scripts
+
+01/15/2021  03:04 AM            41,984 iptest.exe
+01/15/2021  03:04 AM            41,984 iptest3.exe
+01/15/2021  03:04 AM            41,984 ipython.exe
+01/15/2021  03:04 AM            41,984 ipython3.exe
+               4 File(s)        167,936 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\jpeg-9b-hb83a4c4_2\Library\bin
+
+11/08/2017  09:32 PM            34,304 cjpeg.exe
+11/08/2017  09:32 PM            29,696 djpeg.exe
+11/08/2017  09:32 PM            37,376 jpegtran.exe
+11/08/2017  09:32 PM            14,848 rdjpgcom.exe
+11/08/2017  09:32 PM            15,360 wrjpgcom.exe
+               5 File(s)        131,584 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\jupyter_core-4.6.3-py38_0\Scripts
+
+11/01/2019  02:30 PM            40,960 jupyter-migrate.exe
+11/01/2019  02:30 PM            40,960 jupyter-troubleshoot.exe
+11/01/2019  02:30 PM            40,960 jupyter.exe
+               3 File(s)        122,880 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\jupyter_core-4.7.1-py37haa95532_0\Scripts
+
+01/15/2021  03:04 AM            41,984 jupyter-migrate.exe
+01/15/2021  03:04 AM            41,984 jupyter-troubleshoot.exe
+01/15/2021  03:04 AM            41,984 jupyter.exe
+               3 File(s)        125,952 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\jupyter_core-4.7.1-py38haa95532_0\Scripts
+
+01/15/2021  03:04 AM            41,984 jupyter-migrate.exe
+01/15/2021  03:04 AM            41,984 jupyter-troubleshoot.exe
+01/15/2021  03:04 AM            41,984 jupyter.exe
+               3 File(s)        125,952 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\keyring-21.4.0-py38_1\Scripts
+
+09/29/2020  01:01 PM            41,984 keyring.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\krb5-1.17.2-hbae68bd_0\Library\bin
+
+11/17/2020  05:20 PM           162,304 ccapiserver.exe
+11/17/2020  05:20 PM            26,624 gss-client.exe
+11/17/2020  05:20 PM            25,600 gss-server.exe
+11/17/2020  05:20 PM            13,824 kcpytkt.exe
+11/17/2020  05:20 PM            13,824 kdeltkt.exe
+11/17/2020  05:20 PM            14,336 kdestroy.exe
+11/17/2020  05:20 PM            30,208 kfwcpcc.exe
+11/17/2020  05:20 PM            27,136 kinit.exe
+11/17/2020  05:20 PM            26,624 klist.exe
+11/17/2020  05:20 PM            14,336 kpasswd.exe
+11/17/2020  05:20 PM            12,800 kswitch.exe
+11/17/2020  05:20 PM            17,920 kvno.exe
+11/17/2020  05:20 PM            13,312 mit2ms.exe
+11/17/2020  05:20 PM            14,848 ms2mit.exe
+              14 File(s)        413,696 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\krb5-1.18.2-hc04afaa_0\Library\bin
+
+06/29/2020  06:21 AM           157,184 ccapiserver.exe
+06/29/2020  06:22 AM            26,624 gss-client.exe
+06/29/2020  06:22 AM            25,600 gss-server.exe
+06/29/2020  06:22 AM            13,824 kcpytkt.exe
+06/29/2020  06:22 AM            13,824 kdeltkt.exe
+06/29/2020  06:22 AM            14,336 kdestroy.exe
+06/29/2020  06:22 AM            30,208 kfwcpcc.exe
+06/29/2020  06:22 AM            27,136 kinit.exe
+06/29/2020  06:22 AM            27,136 klist.exe
+06/29/2020  06:22 AM            14,336 kpasswd.exe
+06/29/2020  06:22 AM            12,800 kswitch.exe
+06/29/2020  06:22 AM            20,480 kvno.exe
+06/29/2020  06:22 AM            13,312 mit2ms.exe
+06/29/2020  06:22 AM            14,848 ms2mit.exe
+              14 File(s)        411,648 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\libarchive-3.4.2-h5e25573_0\Library\bin
+
+04/18/2020  06:05 AM           228,352 bsdcat.exe
+04/18/2020  06:05 AM         1,122,304 bsdcpio.exe
+04/18/2020  06:05 AM         1,155,072 bsdtar.exe
+               3 File(s)      2,505,728 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\libpng-1.6.37-h2a8f88b_0\Library\bin
+
+04/23/2019  10:51 AM            11,264 png-fix-itxt.exe
+04/23/2019  10:52 AM            54,272 pngfix.exe
+               2 File(s)         65,536 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\libprotobuf-3.13.0.1-h200bbdf_0\Library\bin
+
+10/12/2020  04:17 AM            21,504 protoc.exe
+               1 File(s)         21,504 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\libprotobuf-3.14.0-h23ce68f_0\Library\bin
+
+12/03/2020  03:49 PM            21,504 protoc.exe
+               1 File(s)         21,504 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\libprotobuf-3.15.6-h7755175_0\Library\bin
+
+03/11/2021  04:25 PM            21,504 protoc.exe
+               1 File(s)         21,504 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\libtiff-4.1.0-h56a325e_1\Library\bin
+
+06/01/2020  07:13 AM            19,968 fax2ps.exe
+06/01/2020  07:13 AM            18,432 fax2tiff.exe
+06/01/2020  07:13 AM            16,896 pal2rgb.exe
+06/01/2020  07:13 AM            16,384 ppm2tiff.exe
+06/01/2020  07:13 AM            24,064 raw2tiff.exe
+06/01/2020  07:13 AM            17,920 tiff2bw.exe
+06/01/2020  07:13 AM            74,240 tiff2pdf.exe
+06/01/2020  07:13 AM            49,152 tiff2ps.exe
+06/01/2020  07:13 AM            17,920 tiff2rgba.exe
+06/01/2020  07:13 AM            21,504 tiffcmp.exe
+06/01/2020  07:13 AM            36,352 tiffcp.exe
+06/01/2020  07:13 AM           106,496 tiffcrop.exe
+06/01/2020  07:13 AM            15,872 tiffdither.exe
+06/01/2020  07:13 AM            20,992 tiffdump.exe
+06/01/2020  07:13 AM            18,432 tiffinfo.exe
+06/01/2020  07:13 AM            22,016 tiffmedian.exe
+06/01/2020  07:13 AM            14,848 tiffset.exe
+06/01/2020  07:13 AM            14,336 tiffsplit.exe
+              18 File(s)        525,824 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\libtiff-4.2.0-hd0e1b90_0\Library\bin
+
+03/23/2021  02:41 AM            19,968 fax2ps.exe
+03/23/2021  02:41 AM            16,896 fax2tiff.exe
+03/23/2021  02:41 AM            16,384 pal2rgb.exe
+03/23/2021  02:41 AM            16,384 ppm2tiff.exe
+03/23/2021  02:41 AM            24,064 raw2tiff.exe
+03/23/2021  02:41 AM            17,408 tiff2bw.exe
+03/23/2021  02:41 AM            76,288 tiff2pdf.exe
+03/23/2021  02:41 AM            49,664 tiff2ps.exe
+03/23/2021  02:41 AM            17,408 tiff2rgba.exe
+03/23/2021  02:41 AM            19,968 tiffcmp.exe
+03/23/2021  02:41 AM            36,352 tiffcp.exe
+03/23/2021  02:41 AM           107,008 tiffcrop.exe
+03/23/2021  02:41 AM            15,872 tiffdither.exe
+03/23/2021  02:41 AM            20,480 tiffdump.exe
+03/23/2021  02:41 AM            17,920 tiffinfo.exe
+03/23/2021  02:41 AM            22,016 tiffmedian.exe
+03/23/2021  02:41 AM            14,848 tiffset.exe
+03/23/2021  02:41 AM            14,336 tiffsplit.exe
+              18 File(s)        523,264 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\libxml2-2.9.10-hb89e7f3_3\Library\bin
+
+10/20/2020  03:08 PM            18,944 runxmlconf.exe
+10/20/2020  03:08 PM            18,944 xmlcatalog.exe
+10/20/2020  03:08 PM            56,832 xmllint.exe
+               3 File(s)         94,720 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\libxslt-1.1.34-he774522_0\Library\bin
+
+06/12/2020  12:01 PM            24,064 xsltproc.exe
+               1 File(s)         24,064 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\lz4-c-1.9.2-hf4a77e7_3\Library\bin
+
+10/01/2020  07:15 AM           143,360 lz4.exe
+               1 File(s)        143,360 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\lz4-c-1.9.3-h2bbff1b_0\Library\bin
+
+01/21/2021  11:59 AM           154,624 lz4.exe
+               1 File(s)        154,624 bytes
+
+
+04/16/2020  02:57 PM            28,160 lzopack.exe
+04/16/2020  02:57 PM           145,920 lzotest.exe
+04/16/2020  02:57 PM            15,872 simple.exe
+04/16/2020  02:57 PM            15,872 testmini.exe
+               4 File(s)        205,824 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-binutils-2.25.1-5\Library\mingw-w64\bin
+
+03/30/2016  10:49 PM         2,092,240 addr2line.exe
+03/30/2016  10:49 PM         2,118,511 ar.exe
+03/30/2016  10:49 PM         2,873,342 as.exe
+03/30/2016  10:49 PM         2,086,488 c++filt.exe
+03/30/2016  10:49 PM         2,150,581 dlltool.exe
+03/30/2016  10:49 PM         1,171,161 dllwrap.exe
+03/30/2016  10:49 PM         4,186,344 dwp.exe
+03/30/2016  10:49 PM         1,158,179 elfedit.exe
+03/30/2016  10:49 PM         2,158,960 gprof.exe
+03/30/2016  10:49 PM         2,510,316 ld.bfd.exe
+03/30/2016  10:49 PM         2,510,316 ld.exe
+03/30/2016  10:49 PM         5,831,912 ld.gold.exe
+03/30/2016  10:49 PM         2,102,512 nm.exe
+03/30/2016  10:49 PM         2,262,378 objcopy.exe
+03/30/2016  10:49 PM         3,204,456 objdump.exe
+03/30/2016  10:49 PM         2,118,511 ranlib.exe
+03/30/2016  10:49 PM         1,617,967 readelf.exe
+03/30/2016  10:49 PM         2,092,840 size.exe
+03/30/2016  10:49 PM         2,092,334 strings.exe
+03/30/2016  10:49 PM         2,262,378 strip.exe
+03/30/2016  10:49 PM         2,114,808 windmc.exe
+03/30/2016  10:49 PM         2,203,925 windres.exe
+              22 File(s)     52,920,459 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-binutils-2.25.1-5\Library\mingw-w64\x86_64-w64-mingw32\bin
+
+03/30/2016  10:50 PM         2,118,511 ar.exe
+03/30/2016  10:50 PM         2,873,342 as.exe
+03/30/2016  10:50 PM         2,150,581 dlltool.exe
+03/30/2016  10:50 PM         2,510,316 ld.bfd.exe
+03/30/2016  10:50 PM         2,510,316 ld.exe
+03/30/2016  10:50 PM         5,831,912 ld.gold.exe
+03/30/2016  10:50 PM         2,102,512 nm.exe
+03/30/2016  10:50 PM         2,262,378 objcopy.exe
+03/30/2016  10:50 PM         3,204,456 objdump.exe
+03/30/2016  10:50 PM         2,118,511 ranlib.exe
+03/30/2016  10:50 PM         2,262,378 strip.exe
+              11 File(s)     29,945,213 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-bzip2-1.0.6-6\Library\mingw-w64\bin
+
+02/29/2016  12:49 AM            48,732 bunzip2.exe
+02/29/2016  12:49 AM            48,732 bzcat.exe
+02/29/2016  12:49 AM            48,732 bzip2.exe
+02/29/2016  12:49 AM            26,250 bzip2recover.exe
+               4 File(s)        172,446 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-gcc-5.3.0-6\Library\mingw-w64\bin
+
+03/30/2016  11:05 AM         1,893,442 c++.exe
+03/30/2016  11:05 AM         1,890,882 cc.exe
+03/30/2016  11:05 AM         1,891,906 cpp.exe
+03/30/2016  11:05 AM         1,893,442 g++.exe
+03/30/2016  11:05 AM            68,440 gcc-ar.exe
+03/30/2016  11:05 AM            68,440 gcc-nm.exe
+03/30/2016  11:05 AM            68,440 gcc-ranlib.exe
+03/30/2016  11:05 AM         1,890,882 gcc.exe
+03/30/2016  11:05 AM         1,467,639 gcov-tool.exe
+03/30/2016  11:05 AM         1,501,437 gcov.exe
+03/30/2016  11:05 AM         1,893,442 x86_64-w64-mingw32-c++.exe
+03/30/2016  11:05 AM         1,893,442 x86_64-w64-mingw32-g++.exe
+03/30/2016  11:05 AM         1,890,882 x86_64-w64-mingw32-gcc-5.3.0.exe
+03/30/2016  11:05 AM            68,440 x86_64-w64-mingw32-gcc-ar.exe
+03/30/2016  11:05 AM            68,440 x86_64-w64-mingw32-gcc-nm.exe
+03/30/2016  11:05 AM            68,440 x86_64-w64-mingw32-gcc-ranlib.exe
+03/30/2016  11:05 AM         1,890,882 x86_64-w64-mingw32-gcc.exe
+              17 File(s)     20,408,918 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-gcc-5.3.0-6\Library\mingw-w64\lib\gcc\x86_64-w64-mingw32\5.3.0
+
+03/30/2016  11:05 AM        18,788,870 cc1.exe
+03/30/2016  11:05 AM        19,825,670 cc1plus.exe
+03/30/2016  11:05 AM         1,518,045 collect2.exe
+03/30/2016  11:05 AM         1,734,500 lto-wrapper.exe
+03/30/2016  11:05 AM        18,064,902 lto1.exe
+               5 File(s)     59,931,987 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-gcc-5.3.0-6\Library\mingw-w64\lib\gcc\x86_64-w64-mingw32\5.3.0\install-tools
+
+03/30/2016  11:05 AM           178,421 fixincl.exe
+               1 File(s)        178,421 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-gcc-ada-5.3.0-6\Library\mingw-w64\bin
+
+03/30/2016  11:07 AM         4,354,446 gnat.exe
+03/30/2016  11:07 AM         2,668,186 gnatbind.exe
+03/30/2016  11:07 AM         2,295,694 gnatchop.exe
+03/30/2016  11:07 AM         4,522,382 gnatclean.exe
+03/30/2016  11:07 AM         2,234,716 gnatdll.exe
+03/30/2016  11:07 AM         2,272,092 gnatfind.exe
+03/30/2016  11:07 AM         1,938,953 gnatkr.exe
+03/30/2016  11:07 AM         2,081,136 gnatlink.exe
+03/30/2016  11:07 AM         3,910,030 gnatls.exe
+03/30/2016  11:07 AM         4,844,718 gnatmake.exe
+03/30/2016  11:07 AM         3,986,318 gnatname.exe
+03/30/2016  11:07 AM         2,971,996 gnatprep.exe
+03/30/2016  11:07 AM         2,271,068 gnatxref.exe
+              13 File(s)     40,351,735 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-gcc-ada-5.3.0-6\Library\mingw-w64\lib\gcc\x86_64-w64-mingw32\5.3.0
+
+03/30/2016  11:07 AM        22,070,150 gnat1.exe
+               1 File(s)     22,070,150 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-gcc-fortran-5.3.0-6\Library\mingw-w64\bin
+
+03/30/2016  11:06 AM         1,892,930 gfortran.exe
+03/30/2016  11:06 AM         1,892,930 x86_64-w64-mingw32-gfortran.exe
+               2 File(s)      3,785,860 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-gcc-fortran-5.3.0-6\Library\mingw-w64\lib\gcc\x86_64-w64-mingw32\5.3.0
+
+03/30/2016  11:06 AM        19,478,764 f951.exe
+               1 File(s)     19,478,764 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-gcc-objc-5.3.0-6\Library\mingw-w64\lib\gcc\x86_64-w64-mingw32\5.3.0
+
+03/30/2016  11:08 AM        18,976,262 cc1obj.exe
+03/30/2016  11:08 AM        20,017,158 cc1objplus.exe
+               2 File(s)     38,993,420 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-make-4.1.2351.a80a8b8-2\Library\mingw-w64\bin
+
+07/01/2015  06:35 AM           228,355 mingw32-make.exe
+               1 File(s)        228,355 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-pkg-config-0.29.1-2\Library\mingw-w64\bin
+
+03/09/2016  11:03 PM           671,915 pkg-config.exe
+03/09/2016  11:03 PM           671,915 x86_64-w64-mingw32-pkg-config.exe
+               2 File(s)      1,343,830 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-tools-git-5.0.0.4592.90b8472-2\Library\mingw-w64\bin
+
+11/23/2015  02:21 AM            86,032 gendef.exe
+11/23/2015  02:21 AM           101,963 genidl.exe
+11/23/2015  02:21 AM            76,011 genlib.exe
+11/23/2015  02:21 AM            59,277 genpeimg.exe
+11/23/2015  02:21 AM           458,835 widl.exe
+               5 File(s)        782,118 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\m2w64-zlib-1.2.8-10\Library\mingw-w64\bin
+
+08/17/2015  09:19 AM            82,196 miniunzip.exe
+08/17/2015  09:19 AM            82,861 minizip.exe
+               2 File(s)        165,057 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\markdown-3.3.2-py37_0\Scripts
+
+09/29/2020  01:01 PM            41,984 markdown_py.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\markdown-3.3.2-py38_0\Scripts
+
+09/29/2020  01:01 PM            41,984 markdown_py.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\markdown-3.3.4-py37haa95532_0\Scripts
+
+01/15/2021  03:04 AM            41,984 markdown_py.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\markdown-3.3.4-py38haa95532_0\Scripts
+
+01/15/2021  03:04 AM            41,984 markdown_py.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\menuinst-1.4.16-py38he774522_1\Scripts
+
+01/26/2019  08:02 PM            40,960 menuinst.exe
+               1 File(s)         40,960 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\navigator-updater-0.2.1-py38_0\Scripts
+
+01/26/2019  08:02 PM            40,960 navigator-updater.exe
+               1 File(s)         40,960 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\nbconvert-6.0.7-py38_0\Scripts
+
+09/29/2020  01:01 PM            41,984 jupyter-nbconvert.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\nose-1.3.7-py38_2\Scripts
+
+10/14/2019  08:37 AM            40,960 nosetests.exe
+               1 File(s)         40,960 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\notebook-6.1.4-py38_0\Scripts
+
+09/29/2020  01:01 PM            41,984 jupyter-bundlerextension.exe
+09/29/2020  01:01 PM            41,984 jupyter-nbextension.exe
+09/29/2020  01:01 PM            41,984 jupyter-notebook.exe
+09/29/2020  01:01 PM            41,984 jupyter-serverextension.exe
+               4 File(s)        167,936 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\numba-0.51.2-py38hf9181ef_1\Scripts
+
+09/08/2020  01:38 PM            41,984 numba.exe
+09/08/2020  01:38 PM            41,984 pycc.exe
+               2 File(s)         83,968 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\numpy-1.20.1-py37hd20adf4_0\Scripts
+
+01/15/2021  03:04 AM            41,984 f2py.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\numpy-base-1.19.2-py37ha3acd2a_0\Scripts
+
+10/13/2020  08:31 PM            41,984 f2py.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\numpy-base-1.19.2-py38ha3acd2a_0\Scripts
+
+10/13/2020  08:31 PM            41,984 f2py.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\openssl-1.1.1h-he774522_0\Library\bin
+
+09/22/2020  06:53 AM           543,744 openssl.exe
+               1 File(s)        543,744 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\openssl-1.1.1j-h2bbff1b_0\Library\bin
+
+02/18/2021  10:20 AM           543,744 openssl.exe
+               1 File(s)        543,744 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\openssl-1.1.1j-h8ffe710_0\Library\bin
+
+02/16/2021  12:29 PM           543,744 openssl.exe
+               1 File(s)        543,744 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\openssl-1.1.1k-h2bbff1b_0\Library\bin
+
+03/25/2021  08:09 AM           543,744 openssl.exe
+               1 File(s)        543,744 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\openssl-1.1.1k-h8ffe710_0\Library\bin
+
+03/25/2021  10:34 AM           543,744 openssl.exe
+               1 File(s)        543,744 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pandoc-2.11-h9490d1a_0\Scripts
+
+10/11/2020  06:04 AM       119,476,224 pandoc.exe
+               1 File(s)    119,476,224 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pep8-1.7.1-py38_0\Scripts
+
+11/01/2019  02:30 PM            40,960 pep8.exe
+               1 File(s)         40,960 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pip-20.2.4-py38haa95532_0\Lib\site-packages\pip\_vendor\distlib
+
+10/17/2020  02:44 PM            96,768 t32.exe
+10/17/2020  02:44 PM           105,984 t64.exe
+10/17/2020  02:44 PM            90,112 w32.exe
+10/17/2020  02:44 PM            99,840 w64.exe
+               4 File(s)        392,704 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pip-20.2.4-py38haa95532_0\Scripts
+
+10/26/2020  08:42 AM            41,984 pip.exe
+10/26/2020  08:42 AM            41,984 pip3.exe
+               2 File(s)         83,968 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pip-20.2.4-py38_0\Lib\site-packages\pip\_vendor\distlib
+
+10/17/2020  02:44 PM            96,768 t32.exe
+10/17/2020  02:44 PM           105,984 t64.exe
+10/17/2020  02:44 PM            90,112 w32.exe
+10/17/2020  02:44 PM            99,840 w64.exe
+               4 File(s)        392,704 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pip-20.2.4-py38_0\Scripts
+
+10/13/2020  08:31 PM            41,984 pip.exe
+10/13/2020  08:31 PM            41,984 pip3.exe
+               2 File(s)         83,968 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pip-21.0.1-py37haa95532_0\Lib\site-packages\pip\_vendor\distlib
+
+01/30/2021  05:13 AM            96,768 t32.exe
+01/30/2021  05:13 AM           105,984 t64.exe
+01/30/2021  05:13 AM            90,112 w32.exe
+01/30/2021  05:13 AM            99,840 w64.exe
+               4 File(s)        392,704 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pip-21.0.1-py37haa95532_0\Scripts
+
+01/15/2021  03:04 AM            41,984 pip.exe
+01/15/2021  03:04 AM            41,984 pip3.exe
+               2 File(s)         83,968 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pip-21.0.1-py38haa95532_0\Lib\site-packages\pip\_vendor\distlib
+
+01/30/2021  05:13 AM            96,768 t32.exe
+01/30/2021  05:13 AM           105,984 t64.exe
+01/30/2021  05:13 AM            90,112 w32.exe
+01/30/2021  05:13 AM            99,840 w64.exe
+               4 File(s)        392,704 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pip-21.0.1-py38haa95532_0\Scripts
+
+01/15/2021  03:04 AM            41,984 pip.exe
+01/15/2021  03:04 AM            41,984 pip3.exe
+               2 File(s)         83,968 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pip-21.0.1-pyhd8ed1ab_0\site-packages\pip\_vendor\distlib
+
+01/30/2021  05:13 AM            96,768 t32.exe
+01/30/2021  05:13 AM           105,984 t64.exe
+01/30/2021  05:13 AM            90,112 w32.exe
+01/30/2021  05:13 AM            99,840 w64.exe
+               4 File(s)        392,704 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pkginfo-1.6.1-py38haa95532_0\Scripts
+
+10/26/2020  08:42 AM            41,984 pkginfo.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pyjwt-1.7.1-py37_0\Scripts
+
+11/21/2018  05:17 PM            40,960 pyjwt.exe
+               1 File(s)         40,960 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pyjwt-1.7.1-py38_0\Scripts
+
+11/01/2019  02:30 PM            40,960 pyjwt.exe
+               1 File(s)         40,960 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pylint-2.6.0-py38_0\Scripts
+
+01/26/2019  08:02 PM            40,960 epylint.exe
+01/26/2019  08:02 PM            40,960 pylint.exe
+01/26/2019  08:02 PM            40,960 pyreverse.exe
+01/26/2019  08:02 PM            40,960 symilar.exe
+               4 File(s)        163,840 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pytables-3.6.1-py38ha5be198_0\Scripts
+
+01/26/2019  08:02 PM            40,960 pt2to3.exe
+01/26/2019  08:02 PM            40,960 ptdump.exe
+01/26/2019  08:02 PM            40,960 ptrepack.exe
+01/26/2019  08:02 PM            40,960 pttree.exe
+               4 File(s)        163,840 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pytest-6.1.1-py38_0\Scripts
+
+09/29/2020  01:01 PM            41,984 py.test.exe
+09/29/2020  01:01 PM            41,984 pytest.exe
+               2 File(s)         83,968 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.7.10-h6244533_0
+
+02/26/2021  12:08 PM            95,232 python.exe
+02/26/2021  12:08 PM            93,696 pythonw.exe
+02/26/2021  12:07 PM           517,120 venvlauncher.exe
+02/26/2021  12:07 PM           516,608 venvwlauncher.exe
+               4 File(s)      1,222,656 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.7.10-h6244533_0\Lib\distutils\command
+
+02/15/2021  06:29 PM           222,208 wininst-10.0-amd64.exe
+02/15/2021  06:29 PM           190,976 wininst-10.0.exe
+02/15/2021  06:29 PM           587,776 wininst-14.0-amd64.exe
+02/15/2021  06:29 PM           458,240 wininst-14.0.exe
+02/15/2021  06:29 PM            61,440 wininst-6.0.exe
+02/15/2021  06:29 PM            65,536 wininst-7.1.exe
+02/15/2021  06:29 PM            61,440 wininst-8.0.exe
+02/15/2021  06:29 PM           224,256 wininst-9.0-amd64.exe
+02/15/2021  06:29 PM           196,096 wininst-9.0.exe
+               9 File(s)      2,067,968 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.7.10-h6244533_0\Scripts
+
+01/15/2021  03:04 AM            41,984 2to3.exe
+01/15/2021  03:04 AM            41,984 idle.exe
+01/15/2021  03:04 AM            41,984 pydoc.exe
+               3 File(s)        125,952 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.7.10-h7840368_100_cpython
+
+02/19/2021  08:39 AM            95,232 python.exe
+02/19/2021  08:39 AM            93,696 pythonw.exe
+02/19/2021  08:38 AM           516,096 venvlauncher.exe
+02/19/2021  08:38 AM           515,584 venvwlauncher.exe
+               4 File(s)      1,220,608 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.7.10-h7840368_100_cpython\Lib\distutils\command
+
+02/15/2021  06:29 PM           222,208 wininst-10.0-amd64.exe
+02/15/2021  06:29 PM           190,976 wininst-10.0.exe
+02/15/2021  06:29 PM           587,776 wininst-14.0-amd64.exe
+02/15/2021  06:29 PM           458,240 wininst-14.0.exe
+02/15/2021  06:29 PM            61,440 wininst-6.0.exe
+02/15/2021  06:29 PM            65,536 wininst-7.1.exe
+02/15/2021  06:29 PM            61,440 wininst-8.0.exe
+02/15/2021  06:29 PM           224,256 wininst-9.0-amd64.exe
+02/15/2021  06:29 PM           196,096 wininst-9.0.exe
+               9 File(s)      2,067,968 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.7.10-h7840368_100_cpython\Scripts
+
+01/15/2021  03:04 AM            41,984 2to3.exe
+01/15/2021  03:04 AM            41,984 idle.exe
+01/15/2021  03:04 AM            41,984 pydoc.exe
+               3 File(s)        125,952 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.8.0-hff0d562_2
+
+11/06/2019  03:02 PM            95,232 python.exe
+11/06/2019  03:02 PM            93,696 pythonw.exe
+11/06/2019  03:01 PM           518,144 venvlauncher.exe
+11/06/2019  03:01 PM           517,120 venvwlauncher.exe
+               4 File(s)      1,224,192 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.8.0-hff0d562_2\Lib\distutils\command
+
+10/14/2019  06:34 AM           222,208 wininst-10.0-amd64.exe
+10/14/2019  06:34 AM           190,976 wininst-10.0.exe
+10/14/2019  06:34 AM           587,776 wininst-14.0-amd64.exe
+10/14/2019  06:34 AM           458,240 wininst-14.0.exe
+10/14/2019  06:34 AM            61,440 wininst-6.0.exe
+10/14/2019  06:34 AM            65,536 wininst-7.1.exe
+10/14/2019  06:34 AM            61,440 wininst-8.0.exe
+10/14/2019  06:34 AM           224,256 wininst-9.0-amd64.exe
+10/14/2019  06:34 AM           196,096 wininst-9.0.exe
+               9 File(s)      2,067,968 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.8.0-hff0d562_2\Scripts
+
+10/14/2019  08:37 AM            40,960 2to3.exe
+10/14/2019  08:37 AM            40,960 idle.exe
+10/14/2019  08:37 AM            40,960 pydoc.exe
+               3 File(s)        122,880 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.8.5-h5fd99cc_1
+
+09/03/2020  07:30 PM            95,232 python.exe
+09/03/2020  07:30 PM            93,696 pythonw.exe
+09/03/2020  07:29 PM           518,144 venvlauncher.exe
+09/03/2020  07:29 PM           517,120 venvwlauncher.exe
+               4 File(s)      1,224,192 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.8.5-h5fd99cc_1\Lib\distutils\command
+
+07/20/2020  06:01 AM           222,208 wininst-10.0-amd64.exe
+07/20/2020  06:01 AM           190,976 wininst-10.0.exe
+07/20/2020  06:01 AM           587,776 wininst-14.0-amd64.exe
+07/20/2020  06:01 AM           458,240 wininst-14.0.exe
+07/20/2020  06:01 AM            61,440 wininst-6.0.exe
+07/20/2020  06:01 AM            65,536 wininst-7.1.exe
+07/20/2020  06:01 AM            61,440 wininst-8.0.exe
+07/20/2020  06:01 AM           224,256 wininst-9.0-amd64.exe
+07/20/2020  06:01 AM           196,096 wininst-9.0.exe
+               9 File(s)      2,067,968 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.8.5-h5fd99cc_1\Scripts
+
+09/03/2020  03:45 PM            41,984 2to3.exe
+09/03/2020  03:45 PM            41,984 idle.exe
+09/03/2020  03:45 PM            41,984 pydoc.exe
+               3 File(s)        125,952 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.8.8-hdbf39b2_4
+
+02/24/2021  02:57 PM            95,744 python.exe
+02/24/2021  02:57 PM            94,208 pythonw.exe
+02/24/2021  02:57 PM           528,384 venvlauncher.exe
+02/24/2021  02:57 PM           527,360 venvwlauncher.exe
+               4 File(s)      1,245,696 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.8.8-hdbf39b2_4\Lib\distutils\command
+
+02/19/2021  03:28 AM           222,208 wininst-10.0-amd64.exe
+02/19/2021  03:28 AM           190,976 wininst-10.0.exe
+02/19/2021  03:28 AM           587,776 wininst-14.0-amd64.exe
+02/19/2021  03:28 AM           458,240 wininst-14.0.exe
+02/19/2021  03:28 AM            61,440 wininst-6.0.exe
+02/19/2021  03:28 AM            65,536 wininst-7.1.exe
+02/19/2021  03:28 AM            61,440 wininst-8.0.exe
+02/19/2021  03:28 AM           224,256 wininst-9.0-amd64.exe
+02/19/2021  03:28 AM           196,096 wininst-9.0.exe
+               9 File(s)      2,067,968 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\python-3.8.8-hdbf39b2_4\Scripts
+
+01/15/2021  03:04 AM            41,984 2to3.exe
+01/15/2021  03:04 AM            41,984 idle.exe
+01/15/2021  03:04 AM            41,984 pydoc.exe
+               3 File(s)        125,952 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pywin32-227-py37he774522_1\Lib\site-packages\pythonwin
+
+01/15/2020  08:31 AM            72,704 Pythonwin.exe
+               1 File(s)         72,704 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pywin32-227-py37he774522_1\Lib\site-packages\win32
+
+01/15/2020  08:31 AM            17,920 pythonservice.exe
+               1 File(s)         17,920 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pywin32-227-py38he774522_1\Lib\site-packages\pythonwin
+
+01/15/2020  09:00 AM            72,704 Pythonwin.exe
+               1 File(s)         72,704 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\pywin32-227-py38he774522_1\Lib\site-packages\win32
+
+01/15/2020  09:00 AM            17,920 pythonservice.exe
+               1 File(s)         17,920 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\qt-5.9.7-vc14h73c81de_0\Library\bin
+
+12/12/2018  01:44 PM         1,228,288 assistant.exe
+12/12/2018  01:40 PM            38,912 canbusutil.exe
+12/12/2018  01:46 PM           563,712 designer.exe
+12/12/2018  01:40 PM           209,408 dumpcpp.exe
+12/12/2018  01:40 PM           166,912 dumpdoc.exe
+12/12/2018  01:40 PM           758,272 idc.exe
+12/12/2018  01:46 PM           200,192 lconvert.exe
+12/12/2018  01:46 PM         1,332,224 linguist.exe
+12/12/2018  01:46 PM           369,152 lrelease.exe
+12/12/2018  01:46 PM           684,032 lupdate.exe
+12/12/2018  01:37 PM         1,162,240 moc.exe
+12/12/2018  01:43 PM            52,736 pixeltool.exe
+12/12/2018  01:44 PM            51,712 qcollectiongenerator.exe
+12/12/2018  01:43 PM            50,688 qdbus.exe
+12/12/2018  01:38 PM           192,000 qdbuscpp2xml.exe
+12/12/2018  01:43 PM           242,688 qdbusviewer.exe
+12/12/2018  01:38 PM            72,192 qdbusxml2cpp.exe
+12/12/2018  01:43 PM         1,166,848 qdoc.exe
+12/12/2018  01:48 PM         4,120,576 qgltf.exe
+12/12/2018  01:44 PM           172,544 qhelpconverter.exe
+12/12/2018  01:44 PM            26,112 qhelpgenerator.exe
+12/12/2018  01:38 PM           108,032 qlalr.exe
+12/12/2018  01:36 PM         2,373,632 qmake.exe
+12/12/2018  01:43 PM            54,272 qml.exe
+12/12/2018  01:42 PM           885,760 qmlcachegen.exe
+12/12/2018  01:43 PM           124,928 qmleasing.exe
+12/12/2018  01:42 PM           209,408 qmlimportscanner.exe
+12/12/2018  01:42 PM           150,528 qmllint.exe
+12/12/2018  01:42 PM            84,480 qmlmin.exe
+12/12/2018  01:43 PM           113,152 qmlplugindump.exe
+12/12/2018  01:42 PM           133,120 qmlprofiler.exe
+12/12/2018  01:43 PM            50,176 qmlscene.exe
+12/12/2018  01:42 PM            10,752 qmltestrunner.exe
+12/12/2018  01:44 PM           316,928 qscxmlc.exe
+12/12/2018  01:43 PM            53,760 qtattributionsscanner.exe
+12/12/2018  01:43 PM            55,296 qtdiag.exe
+12/12/2018  01:43 PM            32,256 qtpaths.exe
+12/12/2018  01:43 PM            28,160 qtplugininfo.exe
+12/12/2018  02:17 PM            19,456 QtWebEngineProcess.exe
+12/12/2018  02:17 PM           310,272 qwebengine_convert_dict.exe
+12/12/2018  01:37 PM           956,928 rcc.exe
+12/12/2018  01:44 PM           378,368 repc.exe
+12/12/2018  01:40 PM           602,624 testcon.exe
+12/12/2018  01:38 PM           380,928 uic.exe
+12/12/2018  01:43 PM         1,149,952 windeployqt.exe
+12/12/2018  01:40 PM            58,368 xmlpatterns.exe
+12/12/2018  01:40 PM            13,312 xmlpatternsvalidator.exe
+              47 File(s)     21,516,288 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\scikit-image-0.17.2-py38h1e1f486_0\Scripts
+
+10/13/2020  08:31 PM            41,984 skivi.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\setuptools-49.6.0-py37h03978a9_3\Lib\site-packages\setuptools
+
+08/13/2020  06:56 PM            65,536 cli-32.exe
+08/13/2020  06:56 PM            74,752 cli-64.exe
+08/13/2020  06:56 PM            65,536 cli.exe
+08/13/2020  06:56 PM            65,536 gui-32.exe
+08/13/2020  06:56 PM            75,264 gui-64.exe
+08/13/2020  06:56 PM            65,536 gui.exe
+               6 File(s)        412,160 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\setuptools-49.6.0-py37h03978a9_3\Scripts
+
+10/26/2020  08:42 AM            41,984 easy_install.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\setuptools-50.3.0-py38h9490d1a_1\Lib\site-packages\setuptools
+
+09/05/2020  08:08 AM            65,536 cli-32.exe
+09/05/2020  08:08 AM            74,752 cli-64.exe
+09/05/2020  08:08 AM            65,536 cli.exe
+09/05/2020  08:08 AM            65,536 gui-32.exe
+09/05/2020  08:08 AM            75,264 gui-64.exe
+09/05/2020  08:08 AM            65,536 gui.exe
+               6 File(s)        412,160 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\setuptools-50.3.0-py38h9490d1a_1\Scripts
+
+09/29/2020  01:01 PM            41,984 easy_install.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\setuptools-50.3.1-py38haa95532_1\Lib\site-packages\setuptools
+
+10/14/2020  05:13 PM            65,536 cli-32.exe
+10/14/2020  05:13 PM            74,752 cli-64.exe
+10/14/2020  05:13 PM            65,536 cli.exe
+10/14/2020  05:13 PM            65,536 gui-32.exe
+10/14/2020  05:13 PM            75,264 gui-64.exe
+10/14/2020  05:13 PM            65,536 gui.exe
+               6 File(s)        412,160 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\setuptools-50.3.1-py38haa95532_1\Scripts
+
+10/26/2020  08:42 AM            41,984 easy_install.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\setuptools-52.0.0-py37haa95532_0\Lib\site-packages\setuptools
+
+01/23/2021  05:49 PM            65,536 cli-32.exe
+01/23/2021  05:49 PM            74,752 cli-64.exe
+01/23/2021  05:49 PM            65,536 cli.exe
+01/23/2021  05:49 PM            65,536 gui-32.exe
+01/23/2021  05:49 PM            75,264 gui-64.exe
+01/23/2021  05:49 PM            65,536 gui.exe
+               6 File(s)        412,160 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\setuptools-52.0.0-py38haa95532_0\Lib\site-packages\setuptools
+
+01/23/2021  05:49 PM            65,536 cli-32.exe
+01/23/2021  05:49 PM            74,752 cli-64.exe
+01/23/2021  05:49 PM            65,536 cli.exe
+01/23/2021  05:49 PM            65,536 gui-32.exe
+01/23/2021  05:49 PM            75,264 gui-64.exe
+01/23/2021  05:49 PM            65,536 gui.exe
+               6 File(s)        412,160 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\sip-4.19.13-py38ha925a31_0\Library\bin
+
+11/08/2019  12:58 AM           389,120 sip.exe
+               1 File(s)        389,120 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\sip-4.19.24-py38ha925a31_0\Library\bin
+
+08/13/2020  11:03 AM           392,704 sip.exe
+               1 File(s)        392,704 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\sip-4.19.8-py37h6538335_0\Library\bin
+
+08/01/2018  08:39 AM           398,336 sip.exe
+               1 File(s)        398,336 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\spyder-4.1.5-py38_0\Scripts
+
+01/26/2019  08:02 PM            40,960 spyder.exe
+09/02/2020  06:43 AM           100,206 spyder3.exe
+               2 File(s)        141,166 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\sqlite-3.33.0-h2a8f88b_0\Library\bin
+
+08/20/2020  03:00 AM         1,852,928 sqlite3.exe
+               1 File(s)      1,852,928 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\sqlite-3.34.0-h8ffe710_0\Library\bin
+
+12/02/2020  05:28 AM         1,693,696 sqlite3.exe
+               1 File(s)      1,693,696 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\sqlite-3.35.2-h2bbff1b_0\Library\bin
+
+03/18/2021  12:36 PM         1,715,712 sqlite3.exe
+               1 File(s)      1,715,712 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\sqlite-3.35.4-h2bbff1b_0\Library\bin
+
+04/02/2021  01:55 PM         1,715,712 sqlite3.exe
+               1 File(s)      1,715,712 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\sympy-1.6.2-py38haa95532_1\Scripts
+
+10/26/2020  08:42 AM            41,984 isympy.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\tensorboard-1.14.0-py37he3c9ec2_0\Scripts
+
+07/23/2019  11:00 AM            40,960 tensorboard.exe
+               1 File(s)         40,960 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\tensorboard-1.14.0-py37_0\Scripts
+
+07/23/2019  11:00 AM            40,960 tensorboard.exe
+               1 File(s)         40,960 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\tensorflow-base-1.14.0-py37hc8dfbb8_0\Scripts
+
+04/01/2020  02:18 PM            41,984 freeze_graph.exe
+04/01/2020  02:18 PM            41,984 saved_model_cli.exe
+04/01/2020  02:18 PM            41,984 tensorboard.exe
+04/01/2020  02:18 PM            41,984 tflite_convert.exe
+04/01/2020  02:18 PM            41,984 tf_upgrade_v2.exe
+04/01/2020  02:18 PM            41,984 toco.exe
+04/01/2020  02:18 PM            41,984 toco_from_protos.exe
+               7 File(s)        293,888 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\tensorflow-base-2.3.0-eigen_py37h17acbac_0\Scripts
+
+09/08/2020  01:38 PM            41,984 estimator_ckpt_converter.exe
+09/08/2020  01:38 PM            41,984 saved_model_cli.exe
+09/08/2020  01:38 PM            41,984 tflite_convert.exe
+09/08/2020  01:38 PM            41,984 tf_upgrade_v2.exe
+09/08/2020  01:38 PM            41,984 toco.exe
+09/08/2020  01:38 PM            41,984 toco_from_protos.exe
+               6 File(s)        251,904 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\tensorflow-base-2.3.0-eigen_py38h75a453f_0\Scripts
+
+10/26/2020  08:42 AM            41,984 estimator_ckpt_converter.exe
+10/26/2020  08:42 AM            41,984 saved_model_cli.exe
+10/26/2020  08:42 AM            41,984 tflite_convert.exe
+10/26/2020  08:42 AM            41,984 tf_upgrade_v2.exe
+10/26/2020  08:42 AM            41,984 toco.exe
+10/26/2020  08:42 AM            41,984 toco_from_protos.exe
+               6 File(s)        251,904 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\testpath-0.4.4-py_0\site-packages\testpath
+
+11/16/2019  03:22 PM            65,536 cli-32.exe
+11/16/2019  03:22 PM            74,752 cli-64.exe
+               2 File(s)        140,288 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\theano-1.0.4-py37_0\Scripts
+
+09/12/2019  07:52 AM            74,752 theano-cache.exe
+09/12/2019  07:52 AM            74,752 theano-nose.exe
+               2 File(s)        149,504 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\theano-1.0.5-py37hf2a7229_1\Scripts
+
+11/01/2020  04:09 AM           106,350 theano-cache.exe
+11/01/2020  04:09 AM           106,349 theano-nose.exe
+               2 File(s)        212,699 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\tifffile-2020.10.1-py38h8c2d366_2\Scripts
+
+10/06/2020  09:13 AM            74,752 lsm2bin.exe
+10/06/2020  09:13 AM            74,752 tifffile.exe
+               2 File(s)        149,504 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\tk-8.6.10-h8ffe710_1\Library\bin
+
+12/13/2020  06:00 PM            70,144 tclsh.exe
+12/13/2020  06:00 PM            70,144 tclsh86.exe
+12/13/2020  06:00 PM            70,144 tclsh86t.exe
+12/13/2020  06:01 PM            57,856 wish.exe
+12/13/2020  06:01 PM            57,856 wish86.exe
+12/13/2020  06:01 PM            57,856 wish86t.exe
+               6 File(s)        384,000 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\tk-8.6.10-he774522_0\Library\bin
+
+06/18/2020  11:02 AM            70,656 tclsh.exe
+06/18/2020  11:02 AM            70,656 tclsh86.exe
+06/18/2020  11:02 AM            70,656 tclsh86t.exe
+06/18/2020  11:05 AM            57,856 wish.exe
+06/18/2020  11:05 AM            57,856 wish86.exe
+06/18/2020  11:05 AM            57,856 wish86t.exe
+               6 File(s)        385,536 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\vswhere-2.8.4-h57928b3_0\Library\bin
+
+01/05/2021  11:17 PM           455,056 vswhere.exe
+               1 File(s)        455,056 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\watchdog-0.10.3-py38_0\Scripts
+
+01/26/2019  08:02 PM            40,960 watchmedo.exe
+               1 File(s)         40,960 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\winpty-0.4.3-4\Library\bin
+
+02/02/2018  10:44 AM         2,627,338 winpty-agent.exe
+               1 File(s)      2,627,338 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\xlwings-0.20.8-py38_0\Scripts
+
+10/13/2020  08:31 PM            41,984 xlwings.exe
+               1 File(s)         41,984 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\xz-5.2.5-h62dcd97_0\Library\bin
+
+04/15/2020  09:37 PM            18,944 lzmainfo.exe
+04/15/2020  09:37 PM            20,480 unxz.exe
+04/15/2020  09:37 PM            66,560 xz.exe
+04/15/2020  09:37 PM           195,072 xz_static.exe
+               4 File(s)        301,056 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\zstd-1.4.5-h04227a9_0\Library\bin
+
+07/28/2020  07:32 AM           540,160 zstd.exe
+               1 File(s)        540,160 bytes
+
+ Directory of C:\Users\prith\anaconda3\pkgs\zstd-1.4.9-h19a0ad4_0\Library\bin
+
+03/31/2021  03:12 PM           578,048 zstd.exe
+               1 File(s)        578,048 bytes
+
+ Directory of C:\Users\prith\anaconda3\Scripts
+
+09/03/2020  03:45 PM            41,984 2to3.exe
+09/29/2020  01:01 PM            41,984 anaconda-navigator.exe
+03/15/2021  02:10 AM            74,752 anaconda-project.exe
+01/26/2019  08:02 PM            40,960 anaconda.exe
+10/14/2019  08:37 AM            40,960 asadmin.exe
+03/15/2021  02:10 AM            74,752 autopep8.exe
+01/26/2019  08:02 PM            40,960 binstar.exe
+10/13/2020  08:31 PM            41,984 bokeh.exe
+10/14/2019  08:37 AM            40,960 bundle_image.exe
+10/14/2019  08:37 AM            40,960 cfadmin.exe
+10/14/2019  08:37 AM            40,960 chardetect.exe
+10/13/2020  08:31 PM            41,984 conda-build.exe
+10/13/2020  08:31 PM            41,984 conda-convert.exe
+10/13/2020  08:31 PM            41,984 conda-debug.exe
+10/13/2020  08:31 PM            41,984 conda-develop.exe
+03/30/2021  03:03 PM            74,752 conda-env.exe
+10/13/2020  08:31 PM            41,984 conda-index.exe
+10/13/2020  08:31 PM            41,984 conda-inspect.exe
+10/13/2020  08:31 PM            41,984 conda-metapackage.exe
+10/13/2020  08:31 PM            41,984 conda-render.exe
+01/26/2019  08:02 PM            40,960 conda-server.exe
+10/13/2020  08:31 PM            41,984 conda-skeleton.exe
+03/15/2021  02:10 AM            74,752 conda-verify.exe
+03/31/2021  07:13 AM            74,752 conda.exe
+10/17/2020  11:41 PM            41,984 cph.exe
+10/14/2019  08:37 AM            40,960 cq.exe
+10/14/2019  08:37 AM            40,960 cwutil.exe
+01/26/2019  08:02 PM            40,960 cygdb.exe
+01/26/2019  08:02 PM            40,960 cython.exe
+01/26/2019  08:02 PM            40,960 cythonize.exe
+10/26/2020  08:42 AM            41,984 dask-scheduler.exe
+10/26/2020  08:42 AM            41,984 dask-ssh.exe
+10/26/2020  08:42 AM            41,984 dask-worker.exe
+10/14/2019  08:37 AM            40,960 dynamodb_dump.exe
+10/14/2019  08:37 AM            40,960 dynamodb_load.exe
+10/26/2020  08:42 AM            41,984 easy_install.exe
+10/14/2019  08:37 AM            40,960 elbadmin.exe
+01/26/2019  08:02 PM            40,960 epylint.exe
+03/19/2021  10:22 AM           106,388 estimator_ckpt_converter.exe
+10/13/2020  08:31 PM            41,984 f2py.exe
+10/14/2019  08:37 AM            40,960 fetch_file.exe
+09/29/2020  01:01 PM            41,984 fits2bitmap.exe
+09/29/2020  01:01 PM            41,984 fitscheck.exe
+09/29/2020  01:01 PM            41,984 fitsdiff.exe
+09/29/2020  01:01 PM            41,984 fitsheader.exe
+09/29/2020  01:01 PM            41,984 fitsinfo.exe
+03/15/2021  02:10 AM            74,752 flake8.exe
+03/15/2021  02:10 AM            74,752 flask.exe
+11/01/2019  02:30 PM            40,960 futurize.exe
+10/14/2019  08:37 AM            40,960 glacier.exe
+03/15/2021  07:29 PM           106,358 google-oauthlib-tool.exe
+09/03/2020  03:45 PM            41,984 idle.exe
+03/15/2021  02:10 AM            74,752 imageio_download_bin.exe
+03/15/2021  02:10 AM            74,752 imageio_remove_bin.exe
+03/19/2021  10:22 AM           106,372 import_pb_to_tensorboard.exe
+10/14/2019  08:37 AM            40,960 instance_events.exe
+10/26/2020  08:42 AM            41,984 iptest.exe
+10/26/2020  08:42 AM            41,984 iptest3.exe
+10/26/2020  08:42 AM            41,984 ipython.exe
+10/26/2020  08:42 AM            41,984 ipython3.exe
+03/15/2021  02:10 AM            74,752 isort.exe
+10/26/2020  08:42 AM            41,984 isympy.exe
+03/15/2021  02:10 AM            74,752 jlpm.exe
+03/15/2021  02:10 AM            74,752 jsonschema.exe
+09/29/2020  01:01 PM            41,984 jupyter-bundlerextension.exe
+03/15/2021  02:10 AM            74,752 jupyter-console.exe
+03/15/2021  02:10 AM            74,752 jupyter-kernel.exe
+03/15/2021  02:10 AM            74,752 jupyter-kernelspec.exe
+03/15/2021  02:10 AM            74,752 jupyter-lab.exe
+03/15/2021  02:10 AM            74,752 jupyter-labextension.exe
+11/01/2019  02:30 PM            40,960 jupyter-migrate.exe
+09/29/2020  01:01 PM            41,984 jupyter-nbconvert.exe
+09/29/2020  01:01 PM            41,984 jupyter-nbextension.exe
+09/29/2020  01:01 PM            41,984 jupyter-notebook.exe
+03/15/2021  02:10 AM            74,752 jupyter-qtconsole.exe
+03/15/2021  02:10 AM            74,752 jupyter-run.exe
+09/29/2020  01:01 PM            41,984 jupyter-serverextension.exe
+11/01/2019  02:30 PM            40,960 jupyter-troubleshoot.exe
+03/15/2021  02:10 AM            74,752 jupyter-trust.exe
+11/01/2019  02:30 PM            40,960 jupyter.exe
+09/29/2020  01:01 PM            41,984 keyring.exe
+10/14/2019  08:37 AM            40,960 kill_instance.exe
+10/14/2019  08:37 AM            40,960 launch_instance.exe
+10/14/2019  08:37 AM            40,960 list_instances.exe
+10/06/2020  09:13 AM            74,752 lsm2bin.exe
+10/14/2019  08:37 AM            40,960 lss3.exe
+03/15/2021  07:29 PM           106,339 markdown_py.exe
+01/26/2019  08:02 PM            40,960 menuinst.exe
+10/14/2019  08:37 AM            40,960 mturk.exe
+01/26/2019  08:02 PM            40,960 navigator-updater.exe
+10/14/2019  08:37 AM            40,960 nosetests.exe
+09/08/2020  01:38 PM            41,984 numba.exe
+10/11/2020  06:04 AM       119,476,224 pandoc.exe
+11/01/2019  02:30 PM            40,960 pasteurize.exe
+11/01/2019  02:30 PM            40,960 pep8.exe
+10/26/2020  08:42 AM            41,984 pip.exe
+10/26/2020  08:42 AM            41,984 pip3.exe
+10/26/2020  08:42 AM            41,984 pkginfo.exe
+01/26/2019  08:02 PM            40,960 pt2to3.exe
+01/26/2019  08:02 PM            40,960 ptdump.exe
+01/26/2019  08:02 PM            40,960 ptrepack.exe
+01/26/2019  08:02 PM            40,960 pttree.exe
+04/19/2021  11:37 PM           106,346 py.test.exe
+10/14/2019  08:37 AM            40,960 pyami_sendmail.exe
+03/15/2021  02:10 AM            74,752 pybabel.exe
+09/08/2020  01:38 PM            41,984 pycc.exe
+03/15/2021  02:10 AM            74,752 pycodestyle.exe
+09/03/2020  03:45 PM            41,984 pydoc.exe
+03/15/2021  02:10 AM            74,752 pydocstyle.exe
+03/15/2021  02:10 AM            74,752 pyflakes.exe
+03/15/2021  02:10 AM            74,752 pygmentize.exe
+03/15/2021  02:10 AM            74,752 pyjson5.exe
+01/26/2019  08:02 PM            40,960 pylint.exe
+03/15/2021  02:10 AM            74,752 pyls.exe
+01/26/2019  08:02 PM            40,960 pyreverse.exe
+03/15/2021  07:29 PM           106,337 pyrsa-decrypt.exe
+03/15/2021  07:29 PM           106,337 pyrsa-encrypt.exe
+03/15/2021  07:29 PM           106,335 pyrsa-keygen.exe
+03/15/2021  07:29 PM           106,358 pyrsa-priv2pub.exe
+03/15/2021  07:29 PM           106,331 pyrsa-sign.exe
+03/15/2021  07:29 PM           106,335 pyrsa-verify.exe
+04/19/2021  11:37 PM           106,346 pytest.exe
+10/14/2019  08:37 AM            40,960 route53.exe
+10/14/2019  08:37 AM            40,960 s3put.exe
+09/29/2020  01:01 PM            41,984 samp_hub.exe
+03/19/2021  10:22 AM           106,363 saved_model_cli.exe
+10/14/2019  08:37 AM            40,960 sdbadmin.exe
+10/13/2020  08:13 AM            74,752 showtable.exe
+10/13/2020  08:31 PM            41,984 skivi.exe
+03/15/2021  02:10 AM            74,752 sphinx-apidoc.exe
+03/15/2021  02:10 AM            74,752 sphinx-autogen.exe
+03/15/2021  02:10 AM            74,752 sphinx-build.exe
+03/15/2021  02:10 AM            74,752 sphinx-quickstart.exe
+01/26/2019  08:02 PM            40,960 spyder.exe
+09/02/2020  06:43 AM           100,206 spyder3.exe
+01/26/2019  08:02 PM            40,960 symilar.exe
+10/14/2019  08:37 AM            40,960 taskadmin.exe
+03/19/2021  10:22 AM           106,348 tensorboard.exe
+03/19/2021  10:22 AM           106,361 tflite_convert.exe
+03/19/2021  10:22 AM           106,373 tf_upgrade_v2.exe
+03/16/2021  02:16 AM           106,340 theano-cache.exe
+03/16/2021  02:16 AM           106,339 theano-nose.exe
+10/06/2020  09:13 AM            74,752 tifffile.exe
+03/19/2021  10:22 AM           106,361 toco.exe
+03/19/2021  10:22 AM           106,368 toco_from_protos.exe
+03/15/2021  02:10 AM            74,752 tqdm.exe
+09/29/2020  01:01 PM            41,984 volint.exe
+01/26/2019  08:02 PM            40,960 watchmedo.exe
+09/29/2020  01:01 PM            41,984 wcslint.exe
+03/15/2021  02:10 AM            74,752 wheel.exe
+10/13/2020  08:31 PM            41,984 xlwings.exe
+03/15/2021  02:10 AM            74,752 yapf.exe
+             152 File(s)    128,325,673 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Discord
+
+12/03/2020  11:40 PM         1,512,760 Update.exe
+               1 File(s)      1,512,760 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Discord\app-0.0.309
+
+12/03/2020  11:43 PM        95,702,328 Discord.exe
+12/03/2020  11:43 PM         1,512,760 Squirrel.exe
+               2 File(s)     97,215,088 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Discord\app-1.0.9003
+
+09/22/2021  11:26 AM       118,008,480 Discord.exe
+               1 File(s)    118,008,480 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Discord\app-1.0.9003\modules\discord_hook-1\discord_hook\2b6f62ed4f4
+
+09/21/2021  06:17 PM           849,056 DiscordHookHelper.exe
+09/21/2021  06:17 PM         1,193,120 DiscordHookHelper64.exe
+               2 File(s)      2,042,176 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Discord\app-1.0.9003\modules\discord_voice-2\discord_voice
+
+10/07/2021  03:31 PM           606,880 capture_helper.exe
+               1 File(s)        606,880 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Google\Chrome\User Data\SwReporter\93.269.200
+
+09/12/2021  10:19 PM        13,922,648 software_reporter_tool.exe
+               1 File(s)     13,922,648 bytes
+
+ Directory of C:\Users\prith\AppData\Local\HP_Inc
+
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Microsoft\OneDrive
+
+10/07/2021  08:36 AM         2,340,224 OneDrive.exe
+10/07/2021  08:36 AM         3,977,072 OneDriveStandaloneUpdater.exe
+               2 File(s)      6,317,296 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Microsoft\OneDrive\21.180.0905.0007
+
+10/07/2021  08:36 AM           753,528 FileCoAuth.exe
+10/07/2021  08:36 AM           633,200 FileSyncConfig.exe
+10/07/2021  08:36 AM         3,249,520 FileSyncHelper.exe
+10/07/2021  08:36 AM           725,368 Microsoft.SharePoint.exe
+10/07/2021  08:36 AM            34,168 Microsoft.SharePoint.NativeMessagingClient.exe
+10/07/2021  08:36 AM            57,208 OneDriveFileLauncher.exe
+10/07/2021  08:36 AM        47,976,296 OneDriveSetup.exe
+10/07/2021  08:36 AM         3,718,016 OneDriveUpdaterService.exe
+               8 File(s)     57,147,304 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Microsoft\Teams
+
+01/30/2021  07:58 PM         2,452,112 Update.exe
+               1 File(s)      2,452,112 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Microsoft\Teams\current
+
+01/30/2021  07:58 PM         2,452,112 Squirrel.exe
+01/30/2021  07:58 PM        92,381,976 Teams.exe
+               2 File(s)     94,834,088 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Microsoft\WindowsApps
+
+09/15/2021  03:02 AM                 0 GameBarElevatedFT_Alias.exe
+05/28/2021  12:19 PM                 0 MicrosoftEdge.exe
+06/08/2021  10:36 PM                 0 myHP.exe
+10/02/2021  07:53 AM                 0 python.exe
+10/02/2021  07:53 AM                 0 python3.exe
+08/16/2021  04:33 AM                 0 Skype.exe
+10/07/2021  09:40 AM                 0 Spotify.exe
+10/02/2021  07:53 AM                 0 winget.exe
+10/05/2021  01:53 PM                 0 XboxPcApp.exe
+               9 File(s)              0 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Microsoft\WindowsApps\AD2F1837.myHP_v10z8vjag6ke6
+
+06/08/2021  10:36 PM                 0 myHP.exe
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Microsoft\WindowsApps\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe
+
+10/02/2021  07:53 AM                 0 python.exe
+10/02/2021  07:53 AM                 0 python3.exe
+10/02/2021  07:53 AM                 0 winget.exe
+               3 File(s)              0 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Microsoft\WindowsApps\Microsoft.GamingApp_8wekyb3d8bbwe
+
+10/05/2021  01:53 PM                 0 XboxPcApp.exe
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Microsoft\WindowsApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe
+
+06/09/2021  03:11 AM                 0 MicrosoftEdge.exe
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Microsoft\WindowsApps\Microsoft.SkypeApp_kzf8qxf38zg5c
+
+08/16/2021  04:33 AM                 0 Skype.exe
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Microsoft\WindowsApps\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe
+
+09/15/2021  03:02 AM                 0 GameBarElevatedFT_Alias.exe
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Microsoft\WindowsApps\SpotifyAB.SpotifyMusic_zpdnekdrzrea0
+
+10/07/2021  09:40 AM                 0 Spotify.exe
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\prith\AppData\Local\NVIDIA\NvBackend\ApplicationOntology
+
+07/09/2021  12:14 AM           439,152 NvOAWrapperCache.exe
+07/09/2021  12:14 AM           517,488 OAWrapper.exe
+               2 File(s)        956,640 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Package Cache\{ef6306ce-2a12-4d59-887e-ebf00b9e4ab5}
+
+03/10/2021  11:10 AM           862,368 python-3.8.8-amd64.exe
+               1 File(s)        862,368 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Microsoft VS Code
+
+05/12/2021  05:36 PM       124,281,208 Code.exe
+05/20/2021  01:03 AM         2,627,984 unins000.exe
+               2 File(s)    126,909,192 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar.unpacked\node-pty\build\Release
+
+05/12/2021  05:36 PM           785,296 winpty-agent.exe
+               1 File(s)        785,296 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar.unpacked\vscode-ripgrep\bin
+
+05/12/2021  05:37 PM         5,158,800 rg.exe
+               1 File(s)      5,158,800 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\platform\files\node\watcher\win32
+
+05/12/2021  05:37 PM            74,640 CodeHelper.exe
+               1 File(s)         74,640 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Microsoft VS Code\tools
+
+05/12/2021  05:36 PM           420,240 inno_updater.exe
+               1 File(s)        420,240 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Python\Python38\Lib\site-packages\pip\_vendor\distlib
+
+03/10/2021  10:52 AM            96,768 t32.exe
+03/10/2021  10:52 AM           105,984 t64.exe
+03/10/2021  10:52 AM            90,112 w32.exe
+03/10/2021  10:52 AM            99,840 w64.exe
+               4 File(s)        392,704 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Python\Python38\Lib\site-packages\pythonwin
+
+03/10/2021  10:53 AM            71,680 Pythonwin.exe
+               1 File(s)         71,680 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Python\Python38\Lib\site-packages\setuptools
+
+03/09/2021  11:46 PM            65,536 cli-32.exe
+03/09/2021  11:46 PM            74,752 cli-64.exe
+03/09/2021  11:46 PM            65,536 cli.exe
+03/09/2021  11:46 PM            65,536 gui-32.exe
+03/09/2021  11:46 PM            75,264 gui-64.exe
+03/09/2021  11:46 PM            65,536 gui.exe
+               6 File(s)        412,160 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Python\Python38\Lib\site-packages\testpath
+
+03/10/2021  10:53 AM            65,536 cli-32.exe
+03/10/2021  10:53 AM            74,752 cli-64.exe
+               2 File(s)        140,288 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Python\Python38\Lib\site-packages\win32
+
+03/10/2021  10:53 AM            18,432 pythonservice.exe
+               1 File(s)         18,432 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Python\Python38\Lib\site-packages\winpty
+
+03/10/2021  10:53 AM         2,627,338 winpty-agent.exe
+               1 File(s)      2,627,338 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Python\Python38\Scripts
+
+03/09/2021  11:48 PM           106,375 chardetect.exe
+03/09/2021  11:46 PM           106,384 easy_install-3.8.exe
+03/09/2021  11:46 PM           106,384 easy_install.exe
+03/09/2021  11:49 PM           106,417 estimator_ckpt_converter.exe
+03/09/2021  11:48 PM           106,370 f2py.exe
+03/09/2021  11:48 PM           106,387 google-oauthlib-tool.exe
+03/09/2021  11:49 PM           106,401 import_pb_to_tensorboard.exe
+03/10/2021  10:53 AM           106,385 iptest.exe
+03/10/2021  10:53 AM           106,385 iptest3.exe
+03/10/2021  10:53 AM           106,378 ipython.exe
+03/10/2021  10:53 AM           106,378 ipython3.exe
+03/10/2021  10:53 AM           106,371 jlpm.exe
+03/10/2021  10:53 AM           106,367 jsonschema.exe
+03/10/2021  10:53 AM           106,387 jupyter-bundlerextension.exe
+03/10/2021  10:53 AM           106,377 jupyter-kernel.exe
+03/10/2021  10:53 AM           106,415 jupyter-kernelspec.exe
+03/10/2021  10:53 AM           106,370 jupyter-lab.exe
+03/10/2021  10:53 AM           106,377 jupyter-labextension.exe
+03/10/2021  10:53 AM           106,373 jupyter-labhub.exe
+03/10/2021  10:53 AM           106,373 jupyter-migrate.exe
+03/10/2021  10:53 AM           106,374 jupyter-nbclassic.exe
+03/10/2021  10:53 AM           106,375 jupyter-nbconvert.exe
+03/10/2021  10:53 AM           106,374 jupyter-nbextension.exe
+03/10/2021  10:53 AM           106,373 jupyter-notebook.exe
+03/10/2021  10:53 AM           106,394 jupyter-run.exe
+03/10/2021  10:53 AM           106,377 jupyter-server.exe
+03/10/2021  10:53 AM           106,378 jupyter-serverextension.exe
+03/10/2021  10:53 AM           106,378 jupyter-troubleshoot.exe
+03/10/2021  10:53 AM           106,406 jupyter-trust.exe
+03/10/2021  10:53 AM           106,373 jupyter.exe
+03/09/2021  11:48 PM           106,368 markdown_py.exe
+03/10/2021  10:52 AM           106,378 pip.exe
+03/10/2021  10:52 AM           106,378 pip3.8.exe
+03/10/2021  10:52 AM           106,378 pip3.exe
+03/10/2021  10:53 AM           106,376 pybabel.exe
+03/10/2021  10:53 AM           106,369 pygmentize.exe
+03/10/2021  10:53 AM           106,363 pyjson5.exe
+03/09/2021  11:48 PM           106,366 pyrsa-decrypt.exe
+03/09/2021  11:48 PM           106,366 pyrsa-encrypt.exe
+03/09/2021  11:48 PM           106,364 pyrsa-keygen.exe
+03/09/2021  11:48 PM           106,387 pyrsa-priv2pub.exe
+03/09/2021  11:48 PM           106,360 pyrsa-sign.exe
+03/09/2021  11:48 PM           106,364 pyrsa-verify.exe
+03/09/2021  11:49 PM           106,392 saved_model_cli.exe
+03/09/2021  11:49 PM           106,377 tensorboard.exe
+03/09/2021  11:49 PM           106,390 tflite_convert.exe
+03/09/2021  11:49 PM           106,402 tf_upgrade_v2.exe
+03/09/2021  11:49 PM           106,390 toco.exe
+03/09/2021  11:49 PM           106,397 toco_from_protos.exe
+03/09/2021  11:48 PM           106,362 wheel.exe
+              50 File(s)      5,318,983 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Python\Python39\Lib\site-packages\pip\_vendor\distlib
+
+02/05/2021  12:02 PM            96,768 t32.exe
+02/05/2021  12:02 PM           105,984 t64.exe
+02/05/2021  12:02 PM            90,112 w32.exe
+02/05/2021  12:02 PM            99,840 w64.exe
+               4 File(s)        392,704 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Python\Python39\Lib\site-packages\pythonwin
+
+01/28/2021  12:36 AM            71,680 Pythonwin.exe
+               1 File(s)         71,680 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Python\Python39\Lib\site-packages\setuptools
+
+02/05/2021  12:03 PM            65,536 cli-32.exe
+02/05/2021  12:03 PM            74,752 cli-64.exe
+02/05/2021  12:03 PM            65,536 cli.exe
+02/05/2021  12:03 PM            65,536 gui-32.exe
+02/05/2021  12:03 PM            75,264 gui-64.exe
+02/05/2021  12:03 PM            65,536 gui.exe
+               6 File(s)        412,160 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Python\Python39\Lib\site-packages\testpath
+
+01/28/2021  12:37 AM            65,536 cli-32.exe
+01/28/2021  12:37 AM            74,752 cli-64.exe
+               2 File(s)        140,288 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Python\Python39\Lib\site-packages\win32
+
+01/28/2021  12:36 AM            18,432 pythonservice.exe
+               1 File(s)         18,432 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Programs\Python\Python39\Scripts
+
+01/28/2021  12:37 AM           106,375 chardetect.exe
+01/28/2021  12:01 AM           106,370 f2py.exe
+01/28/2021  12:37 AM           106,385 iptest.exe
+01/28/2021  12:37 AM           106,385 iptest3.exe
+01/28/2021  12:37 AM           106,378 ipython.exe
+01/28/2021  12:37 AM           106,378 ipython3.exe
+01/28/2021  12:37 AM           106,371 jlpm.exe
+01/28/2021  12:37 AM           106,367 jsonschema.exe
+01/28/2021  12:37 AM           106,387 jupyter-bundlerextension.exe
+01/28/2021  12:37 AM           106,377 jupyter-kernel.exe
+01/28/2021  12:37 AM           106,415 jupyter-kernelspec.exe
+01/28/2021  12:37 AM           106,370 jupyter-lab.exe
+01/28/2021  12:37 AM           106,377 jupyter-labextension.exe
+01/28/2021  12:37 AM           106,373 jupyter-labhub.exe
+01/28/2021  12:37 AM           106,373 jupyter-migrate.exe
+01/28/2021  12:37 AM           106,374 jupyter-nbclassic.exe
+01/28/2021  12:37 AM           106,375 jupyter-nbconvert.exe
+01/28/2021  12:37 AM           106,374 jupyter-nbextension.exe
+01/28/2021  12:37 AM           106,373 jupyter-notebook.exe
+01/28/2021  12:37 AM           106,394 jupyter-run.exe
+01/28/2021  12:37 AM           106,377 jupyter-server.exe
+01/28/2021  12:37 AM           106,378 jupyter-serverextension.exe
+01/28/2021  12:37 AM           106,378 jupyter-troubleshoot.exe
+01/28/2021  12:37 AM           106,406 jupyter-trust.exe
+01/28/2021  12:37 AM           106,373 jupyter.exe
+02/05/2021  12:10 PM           106,368 markdown_py.exe
+02/05/2021  12:02 PM           106,375 pip.exe
+02/05/2021  12:02 PM           106,375 pip3.9.exe
+02/05/2021  12:02 PM           106,375 pip3.exe
+01/28/2021  12:37 AM           106,376 pybabel.exe
+01/28/2021  12:37 AM           106,369 pygmentize.exe
+01/28/2021  12:37 AM           106,363 pyjson5.exe
+02/05/2021  12:10 PM           106,362 wheel.exe
+              33 File(s)      3,510,446 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp
+
+04/22/2021  08:57 PM         2,084,616 jre-8u291-windows-au.exe
+               1 File(s)      2,084,616 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\0D62A536-4D74-4EF1-B232-A4F10E258888
+
+01/25/2021  06:34 PM           146,256 DismHost.exe
+               1 File(s)        146,256 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\3fp2hior.dru
+
+10/06/2021  02:38 PM           266,640 feedback.exe
+10/06/2021  02:38 PM            39,296 InstallCleanup.exe
+10/06/2021  02:38 PM         1,782,176 setup.exe
+10/06/2021  02:38 PM           458,872 vswhere.exe
+10/06/2021  02:38 PM           103,328 vs_installer.exe
+10/06/2021  02:38 PM            31,168 vs_installer.windows.exe
+10/06/2021  02:38 PM           103,312 vs_installershell.exe
+10/06/2021  02:38 PM           150,928 vs_layout.exe
+               8 File(s)      2,935,720 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\3fp2hior.dru\Feedback
+
+10/06/2021  02:38 PM            21,360 dump64.exe
+               1 File(s)         21,360 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\3fp2hior.dru\resources\app\layout
+
+10/06/2021  02:38 PM           232,336 Setup.exe
+               1 File(s)        232,336 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\3fp2hior.dru\resources\app\ServiceHub\Controller
+
+10/06/2021  02:38 PM           211,352 Microsoft.ServiceHub.Controller.exe
+               1 File(s)        211,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\3fp2hior.dru\resources\app\ServiceHub\Hosts\Microsoft.ServiceHub.Host.CLR
+
+10/06/2021  02:38 PM            15,960 vs_installerservice.exe
+10/06/2021  02:38 PM            16,264 vs_installerservice.x86.exe
+               2 File(s)         32,224 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\3fp2hior.dru\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+10/06/2021  02:38 PM            65,432 BackgroundDownload.exe
+10/06/2021  02:38 PM            84,928 CheckHyperVHost.exe
+10/06/2021  02:38 PM           425,608 handle.exe
+10/06/2021  02:38 PM            26,984 VSHiveStub.exe
+10/06/2021  02:38 PM           211,328 VSIXAutoUpdate.exe
+10/06/2021  02:38 PM            23,464 VSIXConfigurationUpdater.exe
+10/06/2021  02:38 PM           434,536 VSIXInstaller.exe
+               7 File(s)      1,272,280 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\B67DC349-478E-44E4-8414-B182F1D886AC
+
+01/25/2021  06:34 PM           146,256 DismHost.exe
+               1 File(s)        146,256 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\bgr5fppb.gjh
+
+10/08/2021  07:57 PM           266,640 feedback.exe
+10/08/2021  07:57 PM            39,296 InstallCleanup.exe
+10/08/2021  07:57 PM         1,782,176 setup.exe
+10/08/2021  07:57 PM           458,872 vswhere.exe
+10/08/2021  07:57 PM           103,328 vs_installer.exe
+10/08/2021  07:57 PM            31,168 vs_installer.windows.exe
+10/08/2021  07:57 PM           103,312 vs_installershell.exe
+10/08/2021  07:57 PM           150,928 vs_layout.exe
+               8 File(s)      2,935,720 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\bgr5fppb.gjh\Feedback
+
+10/08/2021  07:57 PM            21,360 dump64.exe
+               1 File(s)         21,360 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\bgr5fppb.gjh\resources\app\layout
+
+10/08/2021  07:57 PM           232,336 Setup.exe
+               1 File(s)        232,336 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\bgr5fppb.gjh\resources\app\ServiceHub\Controller
+
+10/08/2021  07:57 PM           211,352 Microsoft.ServiceHub.Controller.exe
+               1 File(s)        211,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\bgr5fppb.gjh\resources\app\ServiceHub\Hosts\Microsoft.ServiceHub.Host.CLR
+
+10/08/2021  07:57 PM            15,960 vs_installerservice.exe
+10/08/2021  07:57 PM            16,264 vs_installerservice.x86.exe
+               2 File(s)         32,224 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\bgr5fppb.gjh\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+10/08/2021  07:57 PM            65,432 BackgroundDownload.exe
+10/08/2021  07:57 PM            84,928 CheckHyperVHost.exe
+10/08/2021  07:57 PM           425,608 handle.exe
+10/08/2021  07:57 PM            26,984 VSHiveStub.exe
+10/08/2021  07:57 PM           211,328 VSIXAutoUpdate.exe
+10/08/2021  07:57 PM            23,464 VSIXConfigurationUpdater.exe
+10/08/2021  07:57 PM           434,536 VSIXInstaller.exe
+               7 File(s)      1,272,280 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\bkqiagq4\Microsoft.Build.UnGAC.19CB695148DE087A242D
+
+10/06/2021  01:23 AM            16,816 Microsoft.Build.UnGAC.exe
+               1 File(s)         16,816 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\bkqiagq4\Microsoft.VisualCpp.Redist.14.Latest.E48EEEE52A3D30682783
+
+10/06/2021  01:24 AM        25,170,720 VC_redist.x64.exe
+               1 File(s)     25,170,720 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\bkqiagq4\Microsoft.VisualCpp.Redist.14.Latest.EC600AAB47914DABE0C3
+
+10/06/2021  01:23 AM        13,780,552 VC_redist.x86.exe
+               1 File(s)     13,780,552 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\bkqiagq4\Microsoft.VisualStudio.Initializer.717D6F2E8D12298D77DF
+
+05/25/2021  05:42 PM            83,352 VSInitializer.exe
+               1 File(s)         83,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\d40oqfeh.545\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+03/06/2021  01:06 AM            64,944 BackgroundDownload.exe
+               1 File(s)         64,944 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\d5jelxlo.qzi
+
+10/05/2021  08:52 AM           266,640 feedback.exe
+10/05/2021  08:52 AM            39,296 InstallCleanup.exe
+10/05/2021  08:52 AM         1,782,176 setup.exe
+10/05/2021  08:52 AM           458,872 vswhere.exe
+10/05/2021  08:52 AM           103,328 vs_installer.exe
+10/05/2021  08:52 AM            31,168 vs_installer.windows.exe
+10/05/2021  08:52 AM           103,312 vs_installershell.exe
+10/05/2021  08:52 AM           150,928 vs_layout.exe
+               8 File(s)      2,935,720 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\d5jelxlo.qzi\Feedback
+
+10/05/2021  08:52 AM            21,360 dump64.exe
+               1 File(s)         21,360 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\d5jelxlo.qzi\resources\app\layout
+
+10/05/2021  08:52 AM           232,336 Setup.exe
+               1 File(s)        232,336 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\d5jelxlo.qzi\resources\app\ServiceHub\Controller
+
+10/05/2021  08:52 AM           211,352 Microsoft.ServiceHub.Controller.exe
+               1 File(s)        211,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\d5jelxlo.qzi\resources\app\ServiceHub\Hosts\Microsoft.ServiceHub.Host.CLR
+
+10/05/2021  08:52 AM            15,960 vs_installerservice.exe
+10/05/2021  08:52 AM            16,264 vs_installerservice.x86.exe
+               2 File(s)         32,224 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\d5jelxlo.qzi\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+10/05/2021  08:52 AM            65,432 BackgroundDownload.exe
+10/05/2021  08:52 AM            84,928 CheckHyperVHost.exe
+10/05/2021  08:52 AM           425,608 handle.exe
+10/05/2021  08:52 AM            26,984 VSHiveStub.exe
+10/05/2021  08:52 AM           211,328 VSIXAutoUpdate.exe
+10/05/2021  08:52 AM            23,464 VSIXConfigurationUpdater.exe
+10/05/2021  08:52 AM           434,536 VSIXInstaller.exe
+               7 File(s)      1,272,280 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\g5dlwcdq.0ce
+
+10/07/2021  10:19 AM           266,640 feedback.exe
+10/07/2021  10:19 AM            39,296 InstallCleanup.exe
+10/07/2021  10:19 AM         1,782,176 setup.exe
+10/07/2021  10:19 AM           458,872 vswhere.exe
+10/07/2021  10:19 AM           103,328 vs_installer.exe
+10/07/2021  10:19 AM            31,168 vs_installer.windows.exe
+10/07/2021  10:19 AM           103,312 vs_installershell.exe
+10/07/2021  10:19 AM           150,928 vs_layout.exe
+               8 File(s)      2,935,720 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\g5dlwcdq.0ce\Feedback
+
+10/07/2021  10:19 AM            21,360 dump64.exe
+               1 File(s)         21,360 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\g5dlwcdq.0ce\resources\app\layout
+
+10/07/2021  10:19 AM           232,336 Setup.exe
+               1 File(s)        232,336 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\g5dlwcdq.0ce\resources\app\ServiceHub\Controller
+
+10/07/2021  10:19 AM           211,352 Microsoft.ServiceHub.Controller.exe
+               1 File(s)        211,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\g5dlwcdq.0ce\resources\app\ServiceHub\Hosts\Microsoft.ServiceHub.Host.CLR
+
+10/07/2021  10:19 AM            15,960 vs_installerservice.exe
+10/07/2021  10:19 AM            16,264 vs_installerservice.x86.exe
+               2 File(s)         32,224 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\g5dlwcdq.0ce\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+10/07/2021  10:19 AM            65,432 BackgroundDownload.exe
+10/07/2021  10:19 AM            84,928 CheckHyperVHost.exe
+10/07/2021  10:19 AM           425,608 handle.exe
+10/07/2021  10:19 AM            26,984 VSHiveStub.exe
+10/07/2021  10:19 AM           211,328 VSIXAutoUpdate.exe
+10/07/2021  10:19 AM            23,464 VSIXConfigurationUpdater.exe
+10/07/2021  10:19 AM           434,536 VSIXInstaller.exe
+               7 File(s)      1,272,280 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\hkui0rfq.jis
+
+10/11/2021  12:52 AM           266,640 feedback.exe
+10/11/2021  12:52 AM            39,296 InstallCleanup.exe
+10/11/2021  12:52 AM         1,782,176 setup.exe
+10/11/2021  12:52 AM           458,872 vswhere.exe
+10/11/2021  12:52 AM           103,328 vs_installer.exe
+10/11/2021  12:52 AM            31,168 vs_installer.windows.exe
+10/11/2021  12:52 AM           103,312 vs_installershell.exe
+10/11/2021  12:52 AM           150,928 vs_layout.exe
+               8 File(s)      2,935,720 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\hkui0rfq.jis\Feedback
+
+10/11/2021  12:52 AM            21,360 dump64.exe
+               1 File(s)         21,360 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\hkui0rfq.jis\resources\app\layout
+
+10/11/2021  12:52 AM           232,336 Setup.exe
+               1 File(s)        232,336 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\hkui0rfq.jis\resources\app\ServiceHub\Controller
+
+10/11/2021  12:52 AM           211,352 Microsoft.ServiceHub.Controller.exe
+               1 File(s)        211,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\hkui0rfq.jis\resources\app\ServiceHub\Hosts\Microsoft.ServiceHub.Host.CLR
+
+10/11/2021  12:52 AM            15,960 vs_installerservice.exe
+10/11/2021  12:52 AM            16,264 vs_installerservice.x86.exe
+               2 File(s)         32,224 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\hkui0rfq.jis\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+10/11/2021  12:52 AM            65,432 BackgroundDownload.exe
+10/11/2021  12:52 AM            84,928 CheckHyperVHost.exe
+10/11/2021  12:52 AM           425,608 handle.exe
+10/11/2021  12:52 AM            26,984 VSHiveStub.exe
+10/11/2021  12:52 AM           211,328 VSIXAutoUpdate.exe
+10/11/2021  12:52 AM            23,464 VSIXConfigurationUpdater.exe
+10/11/2021  12:52 AM           434,536 VSIXInstaller.exe
+               7 File(s)      1,272,280 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\ivupjm5l.whz
+
+10/10/2021  12:13 AM           266,640 feedback.exe
+10/10/2021  12:13 AM            39,296 InstallCleanup.exe
+10/10/2021  12:13 AM         1,782,176 setup.exe
+10/10/2021  12:13 AM           458,872 vswhere.exe
+10/10/2021  12:13 AM           103,328 vs_installer.exe
+10/10/2021  12:13 AM            31,168 vs_installer.windows.exe
+10/10/2021  12:13 AM           103,312 vs_installershell.exe
+10/10/2021  12:13 AM           150,928 vs_layout.exe
+               8 File(s)      2,935,720 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\ivupjm5l.whz\Feedback
+
+10/10/2021  12:13 AM            21,360 dump64.exe
+               1 File(s)         21,360 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\ivupjm5l.whz\resources\app\layout
+
+10/10/2021  12:13 AM           232,336 Setup.exe
+               1 File(s)        232,336 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\ivupjm5l.whz\resources\app\ServiceHub\Controller
+
+10/10/2021  12:13 AM           211,352 Microsoft.ServiceHub.Controller.exe
+               1 File(s)        211,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\ivupjm5l.whz\resources\app\ServiceHub\Hosts\Microsoft.ServiceHub.Host.CLR
+
+10/10/2021  12:13 AM            15,960 vs_installerservice.exe
+10/10/2021  12:13 AM            16,264 vs_installerservice.x86.exe
+               2 File(s)         32,224 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\ivupjm5l.whz\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+10/10/2021  12:13 AM            65,432 BackgroundDownload.exe
+10/10/2021  12:13 AM            84,928 CheckHyperVHost.exe
+10/10/2021  12:13 AM           425,608 handle.exe
+10/10/2021  12:13 AM            26,984 VSHiveStub.exe
+10/10/2021  12:13 AM           211,328 VSIXAutoUpdate.exe
+10/10/2021  12:13 AM            23,464 VSIXConfigurationUpdater.exe
+10/10/2021  12:13 AM           434,536 VSIXInstaller.exe
+               7 File(s)      1,272,280 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\n0c5kmpi.t5p
+
+10/12/2021  07:38 AM           266,640 feedback.exe
+10/12/2021  07:38 AM            39,296 InstallCleanup.exe
+10/12/2021  07:38 AM         1,782,176 setup.exe
+10/12/2021  07:38 AM           458,872 vswhere.exe
+10/12/2021  07:38 AM           103,328 vs_installer.exe
+10/12/2021  07:38 AM            31,168 vs_installer.windows.exe
+10/12/2021  07:38 AM           103,312 vs_installershell.exe
+10/12/2021  07:38 AM           150,928 vs_layout.exe
+               8 File(s)      2,935,720 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\n0c5kmpi.t5p\Feedback
+
+10/12/2021  07:38 AM            21,360 dump64.exe
+               1 File(s)         21,360 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\n0c5kmpi.t5p\resources\app\layout
+
+10/12/2021  07:38 AM           232,336 Setup.exe
+               1 File(s)        232,336 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\n0c5kmpi.t5p\resources\app\ServiceHub\Controller
+
+10/12/2021  07:38 AM           211,352 Microsoft.ServiceHub.Controller.exe
+               1 File(s)        211,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\n0c5kmpi.t5p\resources\app\ServiceHub\Hosts\Microsoft.ServiceHub.Host.CLR
+
+10/12/2021  07:38 AM            15,960 vs_installerservice.exe
+10/12/2021  07:38 AM            16,264 vs_installerservice.x86.exe
+               2 File(s)         32,224 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\n0c5kmpi.t5p\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+10/12/2021  07:38 AM            65,432 BackgroundDownload.exe
+10/12/2021  07:38 AM            84,928 CheckHyperVHost.exe
+10/12/2021  07:38 AM           425,608 handle.exe
+10/12/2021  07:38 AM            26,984 VSHiveStub.exe
+10/12/2021  07:38 AM           211,328 VSIXAutoUpdate.exe
+10/12/2021  07:38 AM            23,464 VSIXConfigurationUpdater.exe
+10/12/2021  07:38 AM           434,536 VSIXInstaller.exe
+               7 File(s)      1,272,280 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\sivo0erg.l4r
+
+10/11/2021  04:49 PM           266,640 feedback.exe
+10/11/2021  04:49 PM            39,296 InstallCleanup.exe
+10/11/2021  04:49 PM         1,782,176 setup.exe
+10/11/2021  04:49 PM           458,872 vswhere.exe
+10/11/2021  04:49 PM           103,328 vs_installer.exe
+10/11/2021  04:49 PM            31,168 vs_installer.windows.exe
+10/11/2021  04:49 PM           103,312 vs_installershell.exe
+10/11/2021  04:49 PM           150,928 vs_layout.exe
+               8 File(s)      2,935,720 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\sivo0erg.l4r\Feedback
+
+10/11/2021  04:49 PM            21,360 dump64.exe
+               1 File(s)         21,360 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\sivo0erg.l4r\resources\app\layout
+
+10/11/2021  04:49 PM           232,336 Setup.exe
+               1 File(s)        232,336 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\sivo0erg.l4r\resources\app\ServiceHub\Controller
+
+10/11/2021  04:49 PM           211,352 Microsoft.ServiceHub.Controller.exe
+               1 File(s)        211,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\sivo0erg.l4r\resources\app\ServiceHub\Hosts\Microsoft.ServiceHub.Host.CLR
+
+10/11/2021  04:49 PM            15,960 vs_installerservice.exe
+10/11/2021  04:49 PM            16,264 vs_installerservice.x86.exe
+               2 File(s)         32,224 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\sivo0erg.l4r\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+10/11/2021  04:49 PM            65,432 BackgroundDownload.exe
+10/11/2021  04:49 PM            84,928 CheckHyperVHost.exe
+10/11/2021  04:49 PM           425,608 handle.exe
+10/11/2021  04:49 PM            26,984 VSHiveStub.exe
+10/11/2021  04:49 PM           211,328 VSIXAutoUpdate.exe
+10/11/2021  04:49 PM            23,464 VSIXConfigurationUpdater.exe
+10/11/2021  04:49 PM           434,536 VSIXInstaller.exe
+               7 File(s)      1,272,280 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\tmpxzwb9xdz\win_drv
+
+05/05/2021  01:25 AM           131,584 installer_x64.exe
+               1 File(s)        131,584 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\tqpuoccm.qp5
+
+10/07/2021  09:40 AM           266,640 feedback.exe
+10/07/2021  09:40 AM            39,296 InstallCleanup.exe
+               2 File(s)        305,936 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\tqpuoccm.qp5\Feedback
+
+10/07/2021  09:40 AM            21,360 dump64.exe
+               1 File(s)         21,360 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\tqpuoccm.qp5\resources\app\layout
+
+10/07/2021  09:40 AM           232,336 Setup.exe
+               1 File(s)        232,336 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\tqpuoccm.qp5\resources\app\ServiceHub\Controller
+
+10/07/2021  09:40 AM           211,352 Microsoft.ServiceHub.Controller.exe
+               1 File(s)        211,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\tqpuoccm.qp5\resources\app\ServiceHub\Hosts\Microsoft.ServiceHub.Host.CLR
+
+10/07/2021  09:40 AM            15,960 vs_installerservice.exe
+10/07/2021  09:40 AM            16,264 vs_installerservice.x86.exe
+               2 File(s)         32,224 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\u4vu4xkl.bj2\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+03/03/2021  02:24 AM            64,944 BackgroundDownload.exe
+               1 File(s)         64,944 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\uo4aw32x.ks4
+
+10/08/2021  01:30 AM           266,640 feedback.exe
+10/08/2021  01:30 AM            39,296 InstallCleanup.exe
+10/08/2021  01:30 AM         1,782,176 setup.exe
+10/08/2021  01:30 AM           458,872 vswhere.exe
+10/08/2021  01:30 AM           103,328 vs_installer.exe
+10/08/2021  01:30 AM            31,168 vs_installer.windows.exe
+10/08/2021  01:30 AM           103,312 vs_installershell.exe
+10/08/2021  01:30 AM           150,928 vs_layout.exe
+               8 File(s)      2,935,720 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\uo4aw32x.ks4\Feedback
+
+10/08/2021  01:30 AM            21,360 dump64.exe
+               1 File(s)         21,360 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\uo4aw32x.ks4\resources\app\layout
+
+10/08/2021  01:30 AM           232,336 Setup.exe
+               1 File(s)        232,336 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\uo4aw32x.ks4\resources\app\ServiceHub\Controller
+
+10/08/2021  01:30 AM           211,352 Microsoft.ServiceHub.Controller.exe
+               1 File(s)        211,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\uo4aw32x.ks4\resources\app\ServiceHub\Hosts\Microsoft.ServiceHub.Host.CLR
+
+10/08/2021  01:30 AM            15,960 vs_installerservice.exe
+10/08/2021  01:30 AM            16,264 vs_installerservice.x86.exe
+               2 File(s)         32,224 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\uo4aw32x.ks4\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+10/08/2021  01:30 AM            65,432 BackgroundDownload.exe
+10/08/2021  01:30 AM            84,928 CheckHyperVHost.exe
+10/08/2021  01:30 AM           425,608 handle.exe
+10/08/2021  01:30 AM            26,984 VSHiveStub.exe
+10/08/2021  01:30 AM           211,328 VSIXAutoUpdate.exe
+10/08/2021  01:30 AM            23,464 VSIXConfigurationUpdater.exe
+10/08/2021  01:30 AM           434,536 VSIXInstaller.exe
+               7 File(s)      1,272,280 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\VS\Setup\3b65be0a-98e9-4c4d-82b0-4d609c7ec059
+
+09/14/2021  09:10 PM         1,467,824 vs_setup_bootstrapper.exe
+               1 File(s)      1,467,824 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\vscode-update-user-x64
+
+05/20/2021  01:03 AM        80,053,656 CodeSetup-stable-054a9295330880ed74ceaedda236253b4f39a335.exe
+               1 File(s)     80,053,656 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\x0kp3ezj.1fb
+
+10/10/2021  12:23 PM           266,640 feedback.exe
+10/10/2021  12:23 PM            39,296 InstallCleanup.exe
+10/10/2021  12:23 PM         1,782,176 setup.exe
+10/10/2021  12:23 PM           458,872 vswhere.exe
+10/10/2021  12:23 PM           103,328 vs_installer.exe
+10/10/2021  12:23 PM            31,168 vs_installer.windows.exe
+10/10/2021  12:23 PM           103,312 vs_installershell.exe
+10/10/2021  12:23 PM           150,928 vs_layout.exe
+               8 File(s)      2,935,720 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\x0kp3ezj.1fb\Feedback
+
+10/10/2021  12:23 PM            21,360 dump64.exe
+               1 File(s)         21,360 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\x0kp3ezj.1fb\resources\app\layout
+
+10/10/2021  12:23 PM           232,336 Setup.exe
+               1 File(s)        232,336 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\x0kp3ezj.1fb\resources\app\ServiceHub\Controller
+
+10/10/2021  12:23 PM           211,352 Microsoft.ServiceHub.Controller.exe
+               1 File(s)        211,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\x0kp3ezj.1fb\resources\app\ServiceHub\Hosts\Microsoft.ServiceHub.Host.CLR
+
+10/10/2021  12:23 PM            15,960 vs_installerservice.exe
+10/10/2021  12:23 PM            16,264 vs_installerservice.x86.exe
+               2 File(s)         32,224 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\x0kp3ezj.1fb\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+10/10/2021  12:23 PM            65,432 BackgroundDownload.exe
+10/10/2021  12:23 PM            84,928 CheckHyperVHost.exe
+10/10/2021  12:23 PM           425,608 handle.exe
+10/10/2021  12:23 PM            26,984 VSHiveStub.exe
+10/10/2021  12:23 PM           211,328 VSIXAutoUpdate.exe
+10/10/2021  12:23 PM            23,464 VSIXConfigurationUpdater.exe
+10/10/2021  12:23 PM           434,536 VSIXInstaller.exe
+               7 File(s)      1,272,280 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\zftd4xqq.clf
+
+10/06/2021  01:20 AM           266,640 feedback.exe
+10/06/2021  01:20 AM            39,296 InstallCleanup.exe
+10/06/2021  01:20 AM         1,782,176 setup.exe
+10/06/2021  01:20 AM           458,872 vswhere.exe
+10/06/2021  01:20 AM           103,328 vs_installer.exe
+10/06/2021  01:20 AM            31,168 vs_installer.windows.exe
+10/06/2021  01:20 AM           103,312 vs_installershell.exe
+10/06/2021  01:20 AM           150,928 vs_layout.exe
+               8 File(s)      2,935,720 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\zftd4xqq.clf\Feedback
+
+10/06/2021  01:20 AM            21,360 dump64.exe
+               1 File(s)         21,360 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\zftd4xqq.clf\resources\app\layout
+
+10/06/2021  01:20 AM           232,336 Setup.exe
+               1 File(s)        232,336 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\zftd4xqq.clf\resources\app\ServiceHub\Controller
+
+10/06/2021  01:20 AM           211,352 Microsoft.ServiceHub.Controller.exe
+               1 File(s)        211,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\zftd4xqq.clf\resources\app\ServiceHub\Hosts\Microsoft.ServiceHub.Host.CLR
+
+10/06/2021  01:20 AM            15,960 vs_installerservice.exe
+10/06/2021  01:20 AM            16,264 vs_installerservice.x86.exe
+               2 File(s)         32,224 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\zftd4xqq.clf\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+10/06/2021  01:20 AM            65,432 BackgroundDownload.exe
+10/06/2021  01:20 AM            84,928 CheckHyperVHost.exe
+10/06/2021  01:20 AM           425,608 handle.exe
+10/06/2021  01:20 AM            26,984 VSHiveStub.exe
+10/06/2021  01:20 AM           211,328 VSIXAutoUpdate.exe
+10/06/2021  01:20 AM            23,464 VSIXConfigurationUpdater.exe
+10/06/2021  01:20 AM           434,536 VSIXInstaller.exe
+               7 File(s)      1,272,280 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\zvulldc1.tov
+
+10/09/2021  11:47 AM           266,640 feedback.exe
+10/09/2021  11:47 AM            39,296 InstallCleanup.exe
+10/09/2021  11:47 AM         1,782,176 setup.exe
+10/09/2021  11:47 AM           458,872 vswhere.exe
+10/09/2021  11:47 AM           103,328 vs_installer.exe
+10/09/2021  11:47 AM            31,168 vs_installer.windows.exe
+10/09/2021  11:47 AM           103,312 vs_installershell.exe
+10/09/2021  11:47 AM           150,928 vs_layout.exe
+               8 File(s)      2,935,720 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\zvulldc1.tov\Feedback
+
+10/09/2021  11:47 AM            21,360 dump64.exe
+               1 File(s)         21,360 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\zvulldc1.tov\resources\app\layout
+
+10/09/2021  11:47 AM           232,336 Setup.exe
+               1 File(s)        232,336 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\zvulldc1.tov\resources\app\ServiceHub\Controller
+
+10/09/2021  11:47 AM           211,352 Microsoft.ServiceHub.Controller.exe
+               1 File(s)        211,352 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\zvulldc1.tov\resources\app\ServiceHub\Hosts\Microsoft.ServiceHub.Host.CLR
+
+10/09/2021  11:47 AM            15,960 vs_installerservice.exe
+10/09/2021  11:47 AM            16,264 vs_installerservice.x86.exe
+               2 File(s)         32,224 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Temp\zvulldc1.tov\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service
+
+10/09/2021  11:47 AM            65,432 BackgroundDownload.exe
+10/09/2021  11:47 AM            84,928 CheckHyperVHost.exe
+10/09/2021  11:47 AM           425,608 handle.exe
+10/09/2021  11:47 AM            26,984 VSHiveStub.exe
+10/09/2021  11:47 AM           211,328 VSIXAutoUpdate.exe
+10/09/2021  11:47 AM            23,464 VSIXConfigurationUpdater.exe
+10/09/2021  11:47 AM           434,536 VSIXInstaller.exe
+               7 File(s)      1,272,280 bytes
+
+ Directory of C:\Users\prith\AppData\Local\Transcend_Information,_In
+
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\prith\AppData\Local\WhatsApp
+
+10/03/2021  11:56 AM         2,252,496 Update.exe
+10/03/2021  11:56 AM           678,608 WhatsApp.exe
+               2 File(s)      2,931,104 bytes
+
+ Directory of C:\Users\prith\AppData\Local\WhatsApp\app-2.2132.6
+
+08/28/2021  10:27 AM         2,252,496 squirrel.exe
+08/28/2021  10:27 AM       111,155,408 WhatsApp.exe
+               2 File(s)    113,407,904 bytes
+
+ Directory of C:\Users\prith\AppData\Local\WhatsApp\app-2.2134.10
+
+10/03/2021  11:56 AM         2,252,496 squirrel.exe
+10/03/2021  11:56 AM       111,155,408 WhatsApp.exe
+               2 File(s)    113,407,904 bytes
+
+ Directory of C:\Users\prith\AppData\Roaming\Foxit Software\Addon\Foxit Reader
+
+11/23/2020  05:31 AM         5,903,536 FoxitReaderUpdater.exe
+               1 File(s)      5,903,536 bytes
+
+ Directory of C:\Users\prith\AppData\Roaming\Microsoft\Installer\{EF022AD2-59B7-44BC-8C8F-D7AA32AD59E4}
+
+05/04/2021  11:49 PM        14,500,682 CaptureIcon.exe
+05/04/2021  11:49 PM        14,247,749 PlayerIcon.exe
+05/04/2021  11:49 PM        14,246,719 ServiceIcon.exe
+               3 File(s)     42,995,150 bytes
+
+ Directory of C:\Users\prith\AppData\Roaming\Zoom\bin
+
+09/10/2021  03:59 PM        10,036,008 airhost.exe
+09/10/2021  03:59 PM            84,776 CptControl.exe
+09/10/2021  03:59 PM           684,840 CptHost.exe
+09/10/2021  03:59 PM           220,968 CptInstall.exe
+09/10/2021  03:59 PM           218,920 CptService.exe
+09/04/2021  10:50 AM           798,504 Installer.exe
+09/10/2021  03:59 PM           208,168 zCrashReport.exe
+09/10/2021  03:59 PM           267,560 Zoom.exe
+09/10/2021  03:59 PM           214,824 ZoomDocConverter.exe
+09/10/2021  03:59 PM           448,808 ZoomOutlookIMPlugin.exe
+09/10/2021  03:59 PM           320,808 Zoom_launcher.exe
+09/10/2021  03:59 PM           238,888 zTscoder.exe
+09/10/2021  03:59 PM           112,936 zUpdater.exe
+              13 File(s)     13,856,008 bytes
+
+ Directory of C:\Users\prith\AppData\Roaming\Zoom\bin\Aomhost
+
+09/10/2021  03:59 PM           162,088 aomhost.exe
+09/10/2021  03:59 PM         1,358,632 aomhost64.exe
+09/10/2021  03:59 PM           208,168 zCrashReport.exe
+09/10/2021  03:59 PM           394,536 zCrashReport64.exe
+               4 File(s)      2,123,424 bytes
+
+ Directory of C:\Users\prith\AppData\Roaming\Zoom\uninstall
+
+09/04/2021  10:50 AM           798,504 Installer.exe
+               1 File(s)        798,504 bytes
+
+ Directory of C:\Users\prith\Downloads
+
+08/17/2021  08:47 PM           333,040 Firefox Installer.exe
+               1 File(s)        333,040 bytes
+
+ Directory of C:\Users\prith\Downloads\Softwares
+
+02/09/2021  08:44 PM       663,780,512 461.40-notebook-win10-64bit-international-dch-whql.exe
+09/19/2021  02:26 AM         1,447,178 7z1900-x64.exe
+03/15/2021  02:09 AM       479,396,152 Anaconda3-2020.11-Windows-x86_64.exe
+06/24/2021  02:34 PM       120,288,952 arduino-1.8.15-windows.exe
+01/25/2021  03:21 PM         1,242,464 BraveBrowserSetup.exe
+01/25/2021  03:34 PM         1,321,688 ChromeSetup.exe
+03/15/2021  01:25 AM        60,616,808 cuda_11.2.2_win10_network.exe
+01/26/2021  07:23 PM        68,822,328 DiscordSetup.exe
+01/26/2021  07:54 PM       107,329,512 eclipse-inst-jre-win64.exe
+01/26/2021  09:24 PM        73,945,696 FoxitReader1011_enu_Setup_Prom.exe
+01/30/2021  01:28 AM        83,548,808 jre-8u281-windows-x64.exe
+01/26/2021  09:08 PM            86,528 mingw-get-setup.exe
+01/30/2021  01:28 AM        10,129,920 multidoge-0.1.7-windows-setup.exe
+01/27/2021  11:25 PM       365,658,824 pycharm-community-2020.3.3.exe
+03/10/2021  11:08 AM        28,217,976 python-3.8.8-amd64 (1).exe
+03/09/2021  11:45 PM        28,217,976 python-3.8.8-amd64.exe
+01/27/2021  11:24 PM        28,204,528 python-3.9.1-amd64.exe
+02/24/2021  03:06 PM           190,352 ScreenRec_webinstall_all.exe
+01/30/2021  11:54 PM        10,931,184 Sublime Text Build 3211 x64 Setup.exe
+01/28/2021  01:55 AM        58,397,664 TranscendElite_Win_v4.6_setup.exe
+02/18/2021  01:26 AM         7,186,992 vcredist_x64 (1).exe
+02/18/2021  01:21 AM         7,194,312 vcredist_x64.exe
+01/28/2021  01:57 AM        42,585,440 vlc-3.0.12-win64.exe
+03/23/2021  06:21 PM        73,133,976 VSCodeUserSetup-x64-1.54.3.exe
+01/30/2021  10:17 PM         1,408,808 vs_community__rid.30005.exe
+02/27/2021  04:42 PM       129,135,816 WhatsAppSetup.exe
+01/26/2021  09:02 PM         4,204,328 winrar-x64-600.exe
+01/25/2021  03:23 PM        14,779,520 ZoomInstaller.exe
+              28 File(s)  2,471,404,242 bytes
+
+ Directory of C:\Users\prith\Downloads\Softwares\Proteus 8.11 Pro HomeMade Electronics
+
+09/25/2020  06:04 PM       436,194,166 Proteus 8.11 SP0 Pro HomeMade Electronics.exe
+               1 File(s)    436,194,166 bytes
+
+ Directory of C:\Users\prith\Downloads\Softwares\Reddragon Keyboard and Mouse\S101-3_M601-3 Software
+
+02/27/2018  02:17 PM         5,709,331 setup.exe
+               1 File(s)      5,709,331 bytes
+
+ Directory of C:\Users\prith\eclipse\cpp-2020-12\eclipse
+
+12/03/2020  01:05 AM           426,664 eclipse.exe
+12/03/2020  01:05 AM           131,752 eclipsec.exe
+               2 File(s)        558,416 bytes
+
+     Total Files Listed:
+            1772 File(s)  4,887,479,482 bytes
+               4 Dir(s)  325,736,603,648 bytes free
